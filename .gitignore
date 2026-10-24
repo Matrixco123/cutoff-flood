@@ -1,0 +1,24 @@
+# Data is large: keep it out of GitHub, keep the folders
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+*.tif
+*.tiff
+*.graphml
+
+# Model files
+*.pth
+*.pt
+checkpoints/
+
+# Python and notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

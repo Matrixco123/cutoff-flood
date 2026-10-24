@@ -1,0 +1,22 @@
+# Core
+numpy
+pandas
+matplotlib
+scikit-image
+tqdm
+
+# Geospatial
+rasterio
+geopandas
+shapely
+osmnx>=2.0
+networkx
+folium
+
+# Satellite data
+earthengine-api
+geemap
+
+# Deep learning (use a GPU runtime in Colab for training)
+torch
+segmentation-models-pytorch
