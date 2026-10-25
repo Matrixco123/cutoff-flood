@@ -15,15 +15,18 @@ Keep this file updated. Newest entries at the top of each section.
 
 ### Check 1: Roads and hospitals (`01_road_check.ipynb`)
 
-Status: not run yet
+Status: numbers done for 2 of 3 districts (2026-10-25); rural visual check and Jorhat rerun pending
 
 | District | Minor road share | Road density (km/km²) | Health facilities | Villages checked visually | Villages with roads complete |
 |---|---|---|---|---|---|
-| Sivasagar | | | | | |
-| Charaideo | | | | | |
-| Jorhat | | | | | |
+| Sivasagar | 0.61 | 2.15 | 37 | | |
+| Charaideo | 0.61 | 3.03 | 27 | | |
+| Jorhat | rerun | rerun | rerun | | |
 
 Notes:
+- Sivasagar and Charaideo pass on numbers: most road length is residential and unclassified roads, 2 to 3 km of road per km².
+- Jorhat fell back to the rough bounding box because the public Overpass server was overloaded (502). The box overlaps neighbouring districts, so its numbers (9,078 km, 134 facilities) are not valid. Notebook now retries before falling back.
+- First visual check was on Sivasagar town only; towns are always well mapped. Still need 4 rural villages (e.g. Nazira, Gaurisagar, Amguri, Demow).
 
 ### Check 2: Satellite images (`02_sentinel1_check.ipynb`)
 
