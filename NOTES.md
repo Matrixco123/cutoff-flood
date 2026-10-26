@@ -15,13 +15,13 @@ Keep this file updated. Newest entries at the top of each section.
 
 ### Check 1: Roads and hospitals (`01_road_check.ipynb`)
 
-Status: numbers done for 2 of 3 districts (2026-10-25); rural visual check and Jorhat rerun pending
+Status: numbers PASS for all three districts (2026-10-26, Geofabrik file, district boundaries); rural visual check pending
 
 | District | Minor road share | Road density (km/km²) | Health facilities | Villages checked visually | Villages with roads complete |
 |---|---|---|---|---|---|
-| Sivasagar | 0.61 | 2.15 | 37 | | |
-| Charaideo | 0.61 | 3.03 | 27 | | |
-| Jorhat | rerun | rerun | rerun | | |
+| Sivasagar | 0.59 | 1.21 | 37 | | |
+| Charaideo | 0.60 | 1.68 | 27 | | |
+| Jorhat | 0.71 | 1.18 | 80 | | |
 
 Notes:
 - Sivasagar and Charaideo pass on numbers: most road length is residential and unclassified roads.
