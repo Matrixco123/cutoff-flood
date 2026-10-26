@@ -24,7 +24,9 @@ Status: numbers done for 2 of 3 districts (2026-10-25); rural visual check and J
 | Jorhat | rerun | rerun | rerun | | |
 
 Notes:
-- Sivasagar and Charaideo pass on numbers: most road length is residential and unclassified roads, 2 to 3 km of road per km².
+- Sivasagar and Charaideo pass on numbers: most road length is residential and unclassified roads.
+- CORRECTION (2026-10-26): the first notebook counted every two-way road twice (once per direction), so the densities above are about double the true value. True density is roughly 1.1 (Sivasagar) and 1.5 (Charaideo) km/km², still above the guide of 1. Road shares were not affected. Rerun with the new notebook for exact figures.
+- 2026-10-26: public Overpass servers were overloaded for hours. Notebook rewritten to download one Geofabrik OSM file for northeast India and read it locally, so it no longer depends on those servers.
 - Jorhat fell back to the rough bounding box because the public Overpass server was overloaded (502). The box overlaps neighbouring districts, so its numbers (9,078 km, 134 facilities) are not valid. Notebook now retries before falling back.
 - First visual check was on Sivasagar town only; towns are always well mapped. Still need 4 rural villages (e.g. Nazira, Gaurisagar, Amguri, Demow).
 
