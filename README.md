@@ -64,6 +64,8 @@ cutoff-flood/
    3. `03_sen1floods11_first_train.ipynb` (choose a T4 GPU runtime)
 
    To open a notebook in Colab: go to colab.research.google.com, choose *GitHub*, and paste the repository link.
+
+   **Do not use "Save a copy in GitHub" from Colab.** It overwrites the notebook on GitHub with whatever version you had open, and can undo newer fixes. Use *File > Save a copy in Drive* for your runs, and paste results into `NOTES.md` instead.
 4. **Record each result in `NOTES.md`**, then make the go / no-go decision.
 
 ## Rules for the team
