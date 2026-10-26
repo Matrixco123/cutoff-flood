@@ -69,6 +69,20 @@ PRE_FLOOD_WINDOW = ("2026-06-01", "2026-07-01")    # "before" image
 FLOOD_WINDOW = ("2026-07-18", "2026-08-06")        # "during" image
 SEARCH_WINDOW = ("2026-06-01", "2026-08-10")       # everything we list
 
+# Chosen Sentinel-1 images (Check 2, 2026-10-26). Same track: orbit 4, DESCENDING,
+# both cover about 99% of the core study area. Notebooks look up the exact image
+# by date + orbit + pass (taking the one that covers most of the area).
+# The "before" image is 17 July, NOT June: in July farmers flood paddy fields for
+# transplanting, so a June baseline can mistake planted rice fields for flood.
+# 17 July is two days before the heavy rain began (19 July).
+TRACK = {"orbit": 4, "pass": "DESCENDING"}
+PRE_DATE = "2026-07-17"
+POST_DATE = "2026-07-29"
+JUNE_DATE = "2026-06-04"   # older baseline on the same track, kept for comparison
+POST_ID_KNOWN = "S1D_IW_GRDH_1SDV_20260729T233756_20260729T233821_003895_0070A3_D90B"
+JUNE_ID_KNOWN = "S1A_IW_GRDH_1SDV_20260604T233843_20260604T233908_064826_082B1B_663A"
+# Alternative closer to the flood peak: orbit 143 ASCENDING, 2026-07-15 -> 2026-07-27 (88% cover).
+
 # ---------------------------------------------------------------------------
 # Radar preprocessing (must be identical for training and Assam images)
 # ---------------------------------------------------------------------------

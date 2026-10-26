@@ -34,16 +34,22 @@ Notes:
 
 ### Check 2: Satellite images (`02_sentinel1_check.ipynb`)
 
-Status: not run yet
+Status: PASS (2026-10-26). 47 Sentinel-1 images over the core area, 57 same-track pairs.
 
-| | Image ID | Date | Orbit | Pass | Area covered |
+| | Date | Orbit | Pass | Area covered | Image ID |
 |---|---|---|---|---|---|
-| Before | | | | | |
-| During | | | | | |
+| Before (chosen) | 2026-07-17 | 4 | Descending | 99% | look up by date (S1D, 23:37 UTC) |
+| During (chosen) | 2026-07-29 | 4 | Descending | 99% | S1D_IW_GRDH_1SDV_20260729T233756_20260729T233821_003895_0070A3_D90B |
+| Older baseline | 2026-06-04 | 4 | Descending | 100% | S1A_IW_GRDH_1SDV_20260604T233843_20260604T233908_064826_082B1B_663A |
 
-Flood visible in the quick look? (yes / partly / no):
+Flood visible in the quick look? Yes: clustered new water in the plains south of the Brahmaputra around Sivasagar and Jorhat; hills to the southeast stay clean.
 
 Notes:
+- Many red patches with the June baseline are field-shaped. In July, paddy fields are deliberately flooded for transplanting, so June to July differences mix crops with flood. Switched the "before" image to 17 July (same track, two days before the rain began on 19 July). New notebook cell compares both baselines.
+- 29 July is a few days after the peak (situation was improving by 27 July), so some flooding had already receded. Option closer to the peak: orbit 143 ascending, 15 July to 27 July, 88% cover.
+- Images after 29 June are Sentinel-1D only (1A ended 29 June); 6-day revisit on orbit 4 (5, 17, 29 July).
+- geemap's default OSM background tiles are blocked in Colab; switched to Esri satellite tiles.
+- Five-district coverage (ALL_AFFECTED_BBOX) not checked yet.
 
 ### Check 3: First training run (`03_sen1floods11_first_train.ipynb`)
 
