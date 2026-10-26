@@ -33,6 +33,26 @@ DISTRICTS = {
 # One box that covers all three districts, used for satellite searches.
 STUDY_BBOX = (93.90, 26.40, 95.30, 27.30)
 
+# Expansion: the other two districts hit by the same July 2026 flood.
+# Planned for Week 5, after the pipeline works on the core three, and only if
+# one Sentinel-1 image pair covers them (Nagaon is about 200 km west).
+EXPANSION_DISTRICTS = {
+    "Golaghat": {
+        "place": "Golaghat district, Assam, India",
+        "bbox": (93.40, 25.80, 94.40, 26.80),
+        "town": (26.515, 93.960),
+    },
+    "Nagaon": {
+        "place": "Nagaon district, Assam, India",
+        "bbox": (92.30, 25.90, 93.40, 26.60),
+        "town": (26.348, 92.684),
+    },
+}
+
+# All five districts affected by the July 2026 flood.
+ALL_AFFECTED_DISTRICTS = {**DISTRICTS, **EXPANSION_DISTRICTS}
+ALL_AFFECTED_BBOX = (92.30, 25.80, 95.30, 27.30)
+
 # Backup study area if Upper Assam fails the data checks.
 BACKUP_DISTRICT = {
     "Barpeta": {

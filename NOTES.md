@@ -6,6 +6,8 @@ Keep this file updated. Newest entries at the top of each section.
 
 | Date | Decision | Why |
 |---|---|---|
+| 2026-10-26 | Expansion to Golaghat and Nagaon planned for Week 5 (all five districts of the July 2026 flood), if one image pair covers them | Same event and method; core three first so a result is guaranteed |
+| 2026-10-26 | Not doing "all districts ever affected or prone" | Most of Assam, many separate events, and "prone" is a different (risk) model |
 | 2026-10-25 | Study area: Upper Assam (Sivasagar, Charaideo, Jorhat), July 2026 flood | Floods almost every year; recent documented event; utility outage reports available |
 | 2026-10-25 | Backup area: Barpeta (Assam), then Bihar | Lower Assam floods last longer, easier to capture by satellite |
 | 2026-10-25 | Train on Sen1Floods11 hand-labelled chips only | Public, expert labels; no manual training labels needed |
