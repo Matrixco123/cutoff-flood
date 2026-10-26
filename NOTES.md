@@ -38,7 +38,7 @@ Status: PASS (2026-10-26). 47 Sentinel-1 images over the core area, 57 same-trac
 
 | | Date | Orbit | Pass | Area covered | Image ID |
 |---|---|---|---|---|---|
-| Before (chosen) | 2026-07-17 | 4 | Descending | 99% | look up by date (S1D, 23:37 UTC) |
+| Before (chosen) | 2026-07-17 | 4 | Descending | 99% | S1D_IW_GRDH_1SDV_20260717T233756_20260717T233821_003720_006A9E_7B2A |
 | During (chosen) | 2026-07-29 | 4 | Descending | 99% | S1D_IW_GRDH_1SDV_20260729T233756_20260729T233821_003895_0070A3_D90B |
 | Older baseline | 2026-06-04 | 4 | Descending | 100% | S1A_IW_GRDH_1SDV_20260604T233843_20260604T233908_064826_082B1B_663A |
 
@@ -46,6 +46,7 @@ Flood visible in the quick look? Yes: clustered new water in the plains south of
 
 Notes:
 - Many red patches with the June baseline are field-shaped. In July, paddy fields are deliberately flooded for transplanting, so June to July differences mix crops with flood. Switched the "before" image to 17 July (same track, two days before the rain began on 19 July). New notebook cell compares both baselines.
+- Baseline comparison (rough VV < -16 dB threshold, core area): new water vs June = 429.7 km2; vs 17 July = 271.1 km2. About 37% of the June-based "new water" was already present by 17 July, mostly along the Brahmaputra channels (river already high) plus some fields. The field-shaped clusters south of the river remain with the 17 July baseline, so they are flood. Decision: use 17 July as the baseline.
 - 29 July is a few days after the peak (situation was improving by 27 July), so some flooding had already receded. Option closer to the peak: orbit 143 ascending, 15 July to 27 July, 88% cover.
 - Images after 29 June are Sentinel-1D only (1A ended 29 June); 6-day revisit on orbit 4 (5, 17, 29 July).
 - geemap's default OSM background tiles are blocked in Colab; switched to Esri satellite tiles.
