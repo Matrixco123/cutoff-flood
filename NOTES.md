@@ -54,14 +54,17 @@ Notes:
 
 ### Check 3: First training run (`03_sen1floods11_first_train.ipynb`)
 
-Status: not run yet
+Status: PASS (2026-10-27). 446 hand-labelled chips downloaded (252 train, 89 valid; test untouched).
 
 | Method | Val IoU | Val Dice | Precision | Recall |
 |---|---|---|---|---|
-| Threshold baseline | | | | |
-| U-Net, 10 epochs | | | | |
+| Threshold baseline (Otsu on VV) | 0.309 | 0.472 | 0.347 | 0.738 |
+| U-Net ResNet-34, 10 epochs (last) | 0.585 | 0.738 | 0.882 | 0.635 |
 
 Notes:
+- Training loss fell steadily (0.70 to 0.16). Validation IoU peaked at 0.624 (epoch 7) and jumps between epochs (0.52 to 0.62): the validation set is small and the learning rate is constant.
+- U-Net nearly doubles the threshold baseline's IoU. The threshold finds most water but with many false alarms (precision 0.35); the U-Net is the reverse: precise (0.88) but misses about a third of water (recall 0.63).
+- For the real training: more epochs (about 50), learning-rate schedule, keep the best checkpoint by validation IoU, add Dice loss to the BCE (helps recall), and tune the 0.5 decision threshold on validation data.
 
 ### Go / no-go
 
@@ -72,7 +75,7 @@ Notes:
 | Imagery fails | Test Barpeta |
 | Training fails | Debug the code; not a reason to change area |
 
-Decision:
+Decision (2026-10-27): Checks 2 and 3 pass; Check 1 passes on numbers, rural visual check still to do. Upper Assam (Sivasagar, Charaideo, Jorhat) is provisionally locked. Start model training.
 
 ## Open questions
 
