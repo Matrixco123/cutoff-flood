@@ -37,6 +37,7 @@ cutoff-flood/
     01_road_check.ipynb              Check 1: are village roads and hospitals mapped?
     02_sentinel1_check.ipynb         Check 2: is there satellite imagery of the flood?
     03_sen1floods11_first_train.ipynb Check 3: first U-Net training run
+    04_train_ensemble.ipynb          Weeks 2 to 3: train the 5-model ensemble (run on Kaggle)
   data/
     raw/               downloaded data, saved with dates (not pushed to GitHub)
     processed/         cleaned data ready for the model (not pushed)
@@ -67,6 +68,16 @@ cutoff-flood/
 
    **Do not use "Save a copy in GitHub" from Colab.** It overwrites the notebook on GitHub with whatever version you had open, and can undo newer fixes. Use *File > Save a copy in Drive* for your runs, and paste results into `NOTES.md` instead.
 4. **Record each result in `NOTES.md`**, then make the go / no-go decision.
+
+## Training on Kaggle (unattended)
+
+`04_train_ensemble.ipynb` takes about 2 to 4 hours, so run it on Kaggle, which keeps running after you close the laptop:
+
+1. kaggle.com > **Create > New Notebook** > **File > Import Notebook** > paste the GitHub link to `notebooks/04_train_ensemble.ipynb`.
+2. **Session options:** Accelerator **GPU T4 x2** (not P100; recent PyTorch no longer supports it) and **Internet on** (needs a phone-verified account).
+3. Optional: set `QUICK_TEST = True` and run interactively for a few minutes to check everything works, then set it back to `False`.
+4. **Save Version > Save & Run All (Commit) > Save.** Close the laptop.
+5. When it finishes, open that version and download `outputs/` from the **Output** tab (results tables, figures, five trained models).
 
 ## Rules for the team
 

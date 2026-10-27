@@ -77,6 +77,18 @@ Notes:
 
 Decision (2026-10-27): Checks 2 and 3 pass; Check 1 passes on numbers, rural visual check still to do. Upper Assam (Sivasagar, Charaideo, Jorhat) is provisionally locked. Start model training.
 
+## Weeks 2 to 3: ensemble training (`04_train_ensemble.ipynb`, run on Kaggle)
+
+Status: notebook ready (2026-10-28), tested end to end on synthetic data (CPU). Not yet run on real data.
+
+Setup: 5 U-Nets (seeds 0 to 4), 50 epochs, AdamW + cosine schedule, BCE + Dice loss, best epoch kept by validation IoU, mixed precision. Decision threshold tuned on validation. Final scores on test and Bolivia (unseen country), run once. Calibration (ECE) for single model vs ensemble.
+
+| Split | Baseline IoU | Single U-Net IoU (mean +/- std) | Ensemble IoU | Single ECE | Ensemble ECE |
+|---|---|---|---|---|---|
+| Valid | | | | | |
+| Test | | | | | |
+| Bolivia | | | | | |
+
 ## Open questions
 
 - Does Prof. Sobti want more weight on the method (uncertainty) or the application (cut-off villages)?

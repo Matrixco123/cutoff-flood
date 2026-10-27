@@ -54,3 +54,44 @@ class Counts:
             "Precision": round(self.precision(), 4),
             "Recall": round(self.recall(), 4),
         }
+
+
+class Reliability:
+    """
+    Calibration check: when the model says "70% water", is it water about 70%
+    of the time? Pixels are grouped into bins by predicted probability.
+
+    ece() = expected calibration error (0 = perfectly honest probabilities).
+    curve() = points for a reliability diagram.
+    """
+
+    def __init__(self, n_bins=15):
+        self.n = n_bins
+        self.count = np.zeros(n_bins)
+        self.sum_prob = np.zeros(n_bins)
+        self.sum_water = np.zeros(n_bins)
+
+    def update(self, prob, label):
+        """prob: water probability array. label: -1/0/1 array of the same shape."""
+        prob = np.asarray(prob, dtype=np.float64)
+        label = np.asarray(label)
+        valid = label != LABEL_IGNORE
+        p = prob[valid].ravel()
+        y = (label[valid] == 1).ravel().astype(np.float64)
+        idx = np.minimum((p * self.n).astype(int), self.n - 1)
+        self.count += np.bincount(idx, minlength=self.n)
+        self.sum_prob += np.bincount(idx, weights=p, minlength=self.n)
+        self.sum_water += np.bincount(idx, weights=y, minlength=self.n)
+
+    def ece(self):
+        total = self.count.sum()
+        if total == 0:
+            return float("nan")
+        m = self.count > 0
+        gap = np.abs(self.sum_water[m] / self.count[m] - self.sum_prob[m] / self.count[m])
+        return float(np.sum(self.count[m] / total * gap))
+
+    def curve(self):
+        """Returns (mean predicted probability, observed water fraction, pixel count) per bin."""
+        m = self.count > 0
+        return (self.sum_prob[m] / self.count[m], self.sum_water[m] / self.count[m], self.count[m])
