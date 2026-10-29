@@ -79,15 +79,30 @@ Decision (2026-10-27): Checks 2 and 3 pass; Check 1 passes on numbers, rural vis
 
 ## Weeks 2 to 3: ensemble training (`04_train_ensemble.ipynb`, run on Kaggle)
 
-Status: notebook ready (2026-10-28), tested end to end on synthetic data (CPU). Not yet run on real data.
+Status: DONE (Kaggle run, 2026-10-29). Files in `results/kaggle_run1/`; the five models are kept outside GitHub (about 100 MB each).
 
-Setup: 5 U-Nets (seeds 0 to 4), 50 epochs, AdamW + cosine schedule, BCE + Dice loss, best epoch kept by validation IoU, mixed precision. Decision threshold tuned on validation. Final scores on test and Bolivia (unseen country), run once. Calibration (ECE) for single model vs ensemble.
+Setup: 5 U-Nets (seeds 0 to 4), 50 epochs, AdamW + cosine schedule, BCE + Dice loss, best epoch kept by validation IoU, mixed precision. Decision threshold tuned on validation: 0.35.
 
-| Split | Baseline IoU | Single U-Net IoU (mean +/- std) | Ensemble IoU | Single ECE | Ensemble ECE |
+| Split | Baseline IoU | Single U-Net IoU (mean +/- std) | Ensemble IoU (0.35) | Single ECE | Ensemble ECE |
 |---|---|---|---|---|---|
-| Valid | | | | | |
-| Test | | | | | |
-| Bolivia | | | | | |
+| Valid (89 chips) | 0.309 | 0.674 +/- 0.010 | 0.685 | 0.022 | 0.017 |
+| Test (90 chips) | 0.334 | 0.689 +/- 0.005 | 0.697 | 0.027 | 0.022 |
+| Bolivia (15 chips, unseen country) | 0.560 | 0.639 +/- 0.056 | 0.668 | 0.041 | 0.023 |
+
+Findings:
+- U-Net roughly doubles the threshold baseline on test (0.69 vs 0.33).
+- Recall fixed: ensemble at 0.35 gives test recall 0.82 with precision 0.83 (first run: recall 0.63).
+- The ensemble matters most on the unseen country: single models range 0.585 to 0.700 IoU on Bolivia, and calibration error falls from 0.041 to 0.023 (about 45% lower). This is the closest proxy we have for transfer to Assam.
+- Uncertainty maps light up where the model is wrong (e.g. Pakistan test chip with flooded fields the model misses).
+
+Caveats:
+- Bolivia is only 15 chips; its numbers are noisy. Two single seeds (0 and 4) beat the ensemble there; the ensemble's value is that you cannot know in advance which seed transfers well.
+- Validation IoU is noisy between epochs (single drops to about 0.36); best-epoch selection on validation makes validation scores optimistic, so quote test.
+- ECE is small for every model because most pixels are confidently dry. The reliability diagram shows both models are overconfident at both ends (curve flatter than the diagonal); the ensemble is closer in the 0.4 to 0.8 range.
+- Baseline is Otsu on VV only, which is weak. A stronger baseline (VH or VV+VH threshold) would make the comparison harder to dismiss.
+- Validation IoU plateaus around epoch 25 to 30; 30 epochs would likely be enough next time.
+
+Next: temperature scaling; test whether uncertainty predicts errors (AUROC); stronger threshold baseline; then apply the ensemble to the Assam July 2026 images.
 
 ## Open questions
 

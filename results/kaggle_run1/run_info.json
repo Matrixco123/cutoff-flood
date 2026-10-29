@@ -1,0 +1,13 @@
+{
+ "best_threshold": 0.35,
+ "epochs": 50,
+ "seeds": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "otsu_threshold": 0.583984375,
+ "quick_test": false
+}

@@ -1,0 +1,4 @@
+split,baseline IoU,single U-Net IoU,ensemble IoU,single U-Net ECE,ensemble ECE
+valid,0.3094,0.674 +/- 0.010,0.6853,0.0216,0.0167
+test,0.3339,0.689 +/- 0.005,0.6974,0.0267,0.022
+bolivia,0.56,0.639 +/- 0.056,0.6676,0.0410,0.0228
