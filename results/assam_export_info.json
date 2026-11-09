@@ -1,0 +1,14 @@
+{
+ "exported_on": "2026-11-09",
+ "pre_id": "S1D_IW_GRDH_1SDV_20260717T233756_20260717T233821_003720_006A9E_7B2A",
+ "post_id": "S1D_IW_GRDH_1SDV_20260729T233756_20260729T233821_003895_0070A3_D90B",
+ "crs": "EPSG:32646",
+ "transform": [10, 0, 589050, 0, -10, 3021760],
+ "width": 14039,
+ "height": 10147,
+ "nodata": -32768,
+ "scaling": {"VV": "dB x 100", "VH": "dB x 100", "jrc_occurrence": "percent", "hand_dm": "metres x 10"},
+ "jrc": "JRC/GSW1_4/GlobalSurfaceWater occurrence",
+ "hand": "MERIT/Hydro/v1_0_1 hnd (bilinear)",
+ "files": ["s1_pre_20260717.tif", "s1_post_20260729.tif", "aux_jrc_hand.tif"]
+}

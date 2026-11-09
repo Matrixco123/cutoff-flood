@@ -38,6 +38,8 @@ cutoff-flood/
     02_sentinel1_check.ipynb         Check 2: is there satellite imagery of the flood?
     03_sen1floods11_first_train.ipynb Check 3: first U-Net training run
     04_train_ensemble.ipynb          Weeks 2 to 3: train the 5-model ensemble (run on Kaggle)
+    05_export_assam.ipynb            Week 4: export Assam radar, JRC and HAND on one grid (Colab)
+    06_predict_assam.ipynb           Week 4: run the 5 models on Assam, make flood maps (Kaggle)
   data/
     raw/               downloaded data, saved with dates (not pushed to GitHub)
     processed/         cleaned data ready for the model (not pushed)

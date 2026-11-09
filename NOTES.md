@@ -115,9 +115,15 @@ Next: temperature scaling; test whether uncertainty predicts errors (AUROC); str
 
 ## Week 4: Assam inputs (`05_export_assam.ipynb`, run in Colab)
 
-Status: NOTEBOOK READY, NOT YET RUN.
+Status: DONE (Colab, 2026-11-09). All three exports completed; image IDs match Check 2. Grid 14039 x 10147 pixels (140 x 101 km). Record: `results/assam_export_info.json`. Files are in Google Drive `cutoff_assam` (not on GitHub).
 
 Exports three GeoTIFFs to Google Drive (`cutoff_assam`), all on one 10 m grid in UTM 46N (EPSG:32646) over STUDY_BBOX:
 - `s1_pre_20260717.tif` and `s1_post_20260729.tif`: VV, VH in dB x 100, int16, no smoothing.
 - `aux_jrc_hand.tif`: JRC occurrence (%), MERIT HAND (m x 10, bilinear from ~90 m).
 No-data = -32768. The exact grid and image IDs are saved in `results/assam_export_info.json` when the notebook runs.
+
+## Week 4: Assam flood maps (`06_predict_assam.ipynb`, run on Kaggle)
+
+Status: NOTEBOOK READY, NOT YET RUN. Tested end to end on small fake data only.
+
+Runs all five models over both dates in 512 tiles with 64 px overlap (centre-weighted averaging), threshold 0.35, then the flood rule per model (water 29 Jul, dry 17 Jul, JRC <= 80%, HAND <= 15 m, both images have data). Missing HAND does not exclude a pixel. Saves per-model flood maps as bits in one uint8 file (`flood_bits.tif`) plus a version without the "dry on 17 July" rule (`water29_bits.tif`) for the open decision on roads already under water.
