@@ -112,3 +112,12 @@ Next: temperature scaling; test whether uncertainty predicts errors (AUROC); str
 ## Environment notes
 
 - OpenStreetMap, Overpass and the Sen1Floods11 bucket are blocked from the Claude workspace and from the shared shell on the laptop. Run all download steps in Google Colab.
+
+## Week 4: Assam inputs (`05_export_assam.ipynb`, run in Colab)
+
+Status: NOTEBOOK READY, NOT YET RUN.
+
+Exports three GeoTIFFs to Google Drive (`cutoff_assam`), all on one 10 m grid in UTM 46N (EPSG:32646) over STUDY_BBOX:
+- `s1_pre_20260717.tif` and `s1_post_20260729.tif`: VV, VH in dB x 100, int16, no smoothing.
+- `aux_jrc_hand.tif`: JRC occurrence (%), MERIT HAND (m x 10, bilinear from ~90 m).
+No-data = -32768. The exact grid and image IDs are saved in `results/assam_export_info.json` when the notebook runs.
