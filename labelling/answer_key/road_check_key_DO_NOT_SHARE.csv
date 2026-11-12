@@ -1,0 +1,13 @@
+point_id,district,no_road_access,snap_m,people
+1,Jorhat,True,3232.7,160.0
+2,Jorhat,True,666.7,170.0
+3,Charaideo,True,578.6,150.0
+4,Charaideo,True,622.5,222.0
+5,Sivasagar,False,484.2,313.0
+6,Sivasagar,True,1924.9,242.0
+7,Sivasagar,True,1588.5,215.0
+8,Charaideo,True,563.8,157.0
+9,Jorhat,True,2323.4,167.0
+10,Jorhat,False,97.8,230.0
+11,Charaideo,False,217.8,208.0
+12,Jorhat,False,31.8,583.0

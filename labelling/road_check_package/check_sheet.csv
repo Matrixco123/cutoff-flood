@@ -1,0 +1,13 @@
+point_id,district,lat,lon,houses_visible (yes/no),village_roads_visible (none/few/many),roads_on_our_map (all/some/none),distance_houses_to_nearest_mapped_road_m,verdict (A/B/C/D),note
+1,Jorhat,26.60793,94.38886,,,,,,
+2,Jorhat,26.62251,94.2829,,,,,,
+3,Charaideo,27.05695,94.93871,,,,,,
+4,Charaideo,26.98049,94.95196,,,,,,
+5,Sivasagar,26.89714,94.75462,,,,,,
+6,Sivasagar,26.74065,94.63633,,,,,,
+7,Sivasagar,26.81085,94.7889,,,,,,
+8,Charaideo,27.05126,95.03374,,,,,,
+9,Jorhat,26.62119,94.40368,,,,,,
+10,Jorhat,26.8114,94.37117,,,,,,
+11,Charaideo,26.9332,94.74513,,,,,,
+12,Jorhat,26.74919,94.22448,,,,,,
