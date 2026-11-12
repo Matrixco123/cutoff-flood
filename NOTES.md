@@ -127,3 +127,16 @@ No-data = -32768. The exact grid and image IDs are saved in `results/assam_expor
 Status: NOTEBOOK READY, NOT YET RUN. Tested end to end on small fake data only.
 
 Runs all five models over both dates in 512 tiles with 64 px overlap (centre-weighted averaging), threshold 0.35, then the flood rule per model (water 29 Jul, dry 17 Jul, JRC <= 80%, HAND <= 15 m, both images have data). Missing HAND does not exclude a pixel. Saves per-model flood maps as bits in one uint8 file (`flood_bits.tif`) plus a version without the "dry on 17 July" rule (`water29_bits.tif`) for the open decision on roads already under water.
+
+## Week 4: Road network, facilities, villages (`07_build_network.ipynb`, run in Colab by Tanush)
+
+Status: NOTEBOOK READY, NOT YET RUN. Logic tested on a small hand-made map (routing, bridges, unreachable and no-road-access cases). Independent of the flood maps; runs in parallel with Step 6.
+
+Decisions (in `src/config.py`):
+- One network for the whole STUDY_BBOX, not per district, so villages near a border can use facilities across it. Villages are only made for the three districts.
+- Walking-only ways (footway, steps, pedestrian, cycleway, bridleway) excluded; `path` and `track` kept because many rural villages are reached only by them.
+- Open Buildings v3, confidence >= 0.70; settlements = DBSCAN 100 m, min 1 building (`n_buildings` kept so small groups can be filtered later).
+- WorldPop 2020 constrained, 100 m; each cell's people split equally among the buildings in it.
+- Health facilities merged within 50 m; `kind` kept (hospital / clinic / doctors / healthcare tag) so analysis can be restricted to hospitals later.
+- Road strip = 20 m wide in total (10 m each side), flat ends.
+- Dry-run routing gives each village's normal route length; villages unreachable even with no flood are map gaps and must never be counted as flood-cut-off.

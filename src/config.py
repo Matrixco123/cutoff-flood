@@ -121,3 +121,19 @@ MAJOR_ROAD_TYPES = {
     "motorway", "motorway_link", "trunk", "trunk_link", "primary", "primary_link",
     "secondary", "secondary_link", "tertiary", "tertiary_link",
 }
+
+# ---------------------------------------------------------------------------
+# Network building (07_build_network.ipynb)
+# ---------------------------------------------------------------------------
+WORK_CRS = "EPSG:32646"    # UTM zone 46N, metres. Same grid CRS as the Assam flood maps.
+
+# Road types left out of the network. The first group are not usable roads; the
+# second are walking or cycling only. "path" and "track" are KEPT, because in
+# rural Assam many villages are reached only by them.
+EXCLUDED_ROAD_TYPES = {
+    "proposed", "construction", "abandoned", "platform", "raceway", "bus_stop",
+    "elevator", "corridor",
+    "footway", "steps", "pedestrian", "cycleway", "bridleway",
+}
+BUILDING_MIN_CONFIDENCE = 0.70   # Google Open Buildings v3: drop outlines below this
+FACILITY_MERGE_M = 50            # health facility points closer than this are one facility
