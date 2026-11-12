@@ -181,3 +181,21 @@ Run 1 results (road blocked if > 20% of strip flooded, join within 500 m):
 - Join distance 1,000 m: majority-map cut off 439,744 (more people on the network).
 - NOT COUNTED: 735,217 people (33%) live in squares with no road reaching a facility within 500 m on a normal day; only 348 of those squares look like map gaps (a disconnected road nearby). Most are simply far from any mapped road: OpenStreetMap is missing many village lanes or tracks. Biggest limitation of the results so far; the visual check must quantify it.
 - 111,380 people on the network live in squares at least 25% flooded (need rescue, not a road; reported separately).
+
+### Run 1 extra checks (2026-11-13)
+
+Flood area clipped to the three districts (km2; any model / at least 3 of 5 / all 5):
+- Sivasagar (1,574 km2): 248 / 128 / 61
+- Charaideo (1,021 km2): 95 / 35 / 10
+- Jorhat (2,026 km2): 327 / 185 / 107
+- Total: 670 / 348 / 178. The whole-box figure (651 km2 on the averaged map) included north-bank districts.
+
+Which facilities count as care (road blocked at 20%, join within 500 m, dry squares only):
+
+| Facilities | Count | Median normal route | Cut off, majority | All 5 | Any model | Long detour, majority |
+|---|---|---|---|---|---|---|
+| Hospital, clinic, health centre, doctors | 205 | 4.9 km | 314,899 | 167,805 | 507,722 | 53,549 |
+| Hospitals and health centres | 135 | 5.4 km | 346,319 | 176,749 | 538,141 | 42,371 |
+| Hospitals only | 55 | 10.5 km | 460,525 | 213,272 | 643,063 | 16,817 |
+
+Reading: losing access to a hospital affects about 46% more people than losing access to any facility. Fewer long detours with fewer facilities because more places lose every route instead. OSM tags "hospital" inconsistently (private nursing homes vs district hospitals), so the hospitals-only line is a sensitivity check, not a better answer.
