@@ -130,7 +130,7 @@ Runs all five models over both dates in 512 tiles with 64 px overlap (centre-wei
 
 ## Week 4: Road network, facilities, villages (`07_build_network.ipynb`, run in Colab by Tanush)
 
-Status: NOTEBOOK READY, NOT YET RUN. Logic tested on a small hand-made map (routing, bridges, unreachable and no-road-access cases). Independent of the flood maps; runs in parallel with Step 6.
+Status: RUN by Tanush (Colab, 2026-11-12). Outputs in Drive `cutoff_network`; summary in `results/network_run1/`. Network and facilities usable; villages NOT usable (see findings).
 
 Decisions (in `src/config.py`):
 - One network for the whole STUDY_BBOX, not per district, so villages near a border can use facilities across it. Villages are only made for the three districts.
@@ -151,3 +151,13 @@ Decisions (in `src/config.py`):
 - Sivasagar close-up looks right: new dark water in fields is flagged, the town, the tanks (dark on both dates) and the river are not.
 - JRC permanent-water filter (occurrence > 80%) removed almost nothing: the monsoon Brahmaputra spreads over sand bars that are dry most of the year, so their occurrence is below 80%. Rule 2 (dry on 17 July) is what removes the river. Consequence: `water29_bits` (without rule 2) still contains the whole river and is NOT usable for roads as is. Bridges are flagged separately, so most roads do not cross the river anyway, but this must be fixed before testing the "without rule 2" option (e.g. use JRC seasonality or the 17 July river channel).
 - All areas above are for the whole 140 x 101 km box, which includes north-bank districts. Clip to the three districts (Tanush's `districts.gpkg`) before quoting numbers.
+
+### Network run 1 findings (2026-11-13)
+
+- Network: 538,703 road stretches, 16,367 km, 975 bridge stretches. 176 separate pieces; the largest holds 78% of junctions. The next two (about 53k and 49k junctions) are expected to be the north bank and Majuli, which have no road bridge inside the study box. Villages are only made for the three south-bank districts, so this is fine.
+- Facilities: 228 after merging. Kinds include dentist (8), pharmacy (1) and rehabilitation (1), which are not places to go in an emergency: exclude them. Keep hospital, clinic, health centre (`centre`), doctors.
+- PROBLEM 1, people: only 31% of WorldPop people landed on a detected building, so the village populations total about 750k against roughly 2 million living in the three districts. Not a code bug: checked on file 373 directly, only 27% of WorldPop people sit in a 100 m cell with an Open Buildings building (54% within one cell, 69% within two). The two datasets place people and houses differently (houses under tree canopy are often missed).
+- PROBLEM 2, mega-settlements: DBSCAN with 100 m chains continuous rural housing into huge groups (largest: 114,158 buildings, 131k people, Jorhat town plus surrounding villages). One route for 131k people is meaningless.
+- PROBLEM 3, tiny groups: 59% of settlements have fewer than 5 buildings (median 2 among "no road access"). Mostly isolated sheds or false detections in fields.
+- Decision: replace building clusters with fixed 500 m population squares built straight from WorldPop (people counted 100% by construction, no chaining, equal-size units). Done inside notebook 08, so the network does not need rebuilding. Open Buildings kept only as a cross-check.
+- Visual check of 10 villages: NOT done yet.

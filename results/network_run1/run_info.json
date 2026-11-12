@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-12",
+ "osm_file": "osm_northeast_2026-11-12.osm.pbf",
+ "worldpop": "https://data.worldpop.org/GIS/Population/Global_2000_2020_Constrained/2020/BSGM/IND/ind_ppp_2020_constrained.tif",
+ "open_buildings": [
+  "https://storage.googleapis.com/open-buildings-data/v3/polygons_s2_level_4_gzip/373_buildings.csv.gz",
+  "https://storage.googleapis.com/open-buildings-data/v3/polygons_s2_level_4_gzip/375_buildings.csv.gz"
+ ],
+ "crs": "EPSG:32646",
+ "excluded_road_types": [
+  "abandoned",
+  "bridleway",
+  "bus_stop",
+  "construction",
+  "corridor",
+  "cycleway",
+  "elevator",
+  "footway",
+  "pedestrian",
+  "platform",
+  "proposed",
+  "raceway",
+  "steps"
+ ],
+ "building_min_confidence": 0.7,
+ "settlement_cluster_m": 100,
+ "snap_max_m": 500,
+ "road_strip_width_m": 20,
+ "worldpop_share_placed_on_buildings": 0.31
+}
