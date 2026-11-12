@@ -124,7 +124,7 @@ No-data = -32768. The exact grid and image IDs are saved in `results/assam_expor
 
 ## Week 4: Assam flood maps (`06_predict_assam.ipynb`, run on Kaggle)
 
-Status: NOTEBOOK READY, NOT YET RUN. Tested end to end on small fake data only.
+Status: DONE (Kaggle, 2026-11-13). Results in `results/assam_run1/` (maps kept outside GitHub, about 190 MB). NOT yet validated on Assam labels.
 
 Runs all five models over both dates in 512 tiles with 64 px overlap (centre-weighted averaging), threshold 0.35, then the flood rule per model (water 29 Jul, dry 17 Jul, JRC <= 80%, HAND <= 15 m, both images have data). Missing HAND does not exclude a pixel. Saves per-model flood maps as bits in one uint8 file (`flood_bits.tif`) plus a version without the "dry on 17 July" rule (`water29_bits.tif`) for the open decision on roads already under water.
 
@@ -140,3 +140,14 @@ Decisions (in `src/config.py`):
 - Health facilities merged within 50 m; `kind` kept (hospital / clinic / doctors / healthcare tag) so analysis can be restricted to hospitals later.
 - Road strip = 20 m wide in total (10 m each side), flat ends.
 - Dry-run routing gives each village's normal route length; villages unreachable even with no flood are map gaps and must never be counted as flood-cut-off.
+
+### Assam run 1 findings (2026-11-13), whole study box, NOT just the three districts
+
+- Grid: radar files are 14040 x 10148, JRC/HAND file 14039 x 10147 (Earth Engine added one row and column to the radar). Same origin and pixel size, so the one-pixel alignment is harmless.
+- Radar values look normal (VV median -9 dB, VH median -15 dB on both dates).
+- Flood (new water) per model: 580 to 713 km2. Agreement: any model 1,153; at least 3 of 5: 579; all 5: 295 km2. Uncertainty inside flooded areas is about 4 times that outside (mean std 0.107 vs 0.024).
+- 2.4 times the rough threshold estimate (271 km2, VV < -16 dB, smoothed). Not explained yet; the Assam labels decide which is closer.
+- Change between dates (5-model average): water on both dates 2,415 km2; new on 29 July 653 km2; water on 17 July only 580 km2. The 17-July-only water is almost all NORTH of the Brahmaputra, and the new water is mostly on the SOUTH bank (Sivasagar, Jorhat, Charaideo, south-west of the box). A clear spatial pattern, so it looks like real drainage vs new flooding, not random noise.
+- Sivasagar close-up looks right: new dark water in fields is flagged, the town, the tanks (dark on both dates) and the river are not.
+- JRC permanent-water filter (occurrence > 80%) removed almost nothing: the monsoon Brahmaputra spreads over sand bars that are dry most of the year, so their occurrence is below 80%. Rule 2 (dry on 17 July) is what removes the river. Consequence: `water29_bits` (without rule 2) still contains the whole river and is NOT usable for roads as is. Bridges are flagged separately, so most roads do not cross the river anyway, but this must be fixed before testing the "without rule 2" option (e.g. use JRC seasonality or the 17 July river channel).
+- All areas above are for the whole 140 x 101 km box, which includes north-bank districts. Clip to the three districts (Tanush's `districts.gpkg`) before quoting numbers.

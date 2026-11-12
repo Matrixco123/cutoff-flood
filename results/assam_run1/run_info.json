@@ -1,0 +1,19 @@
+{
+ "threshold": 0.35,
+ "tile": 512,
+ "stride": 448,
+ "jrc_permanent_pct": 80,
+ "hand_max_m": 15,
+ "models": [
+  "unet_seed0.pth",
+  "unet_seed1.pth",
+  "unet_seed2.pth",
+  "unet_seed3.pth",
+  "unet_seed4.pth"
+ ],
+ "inputs": [
+  "s1_pre_20260717.tif",
+  "s1_post_20260729.tif",
+  "aux_jrc_hand.tif"
+ ]
+}
