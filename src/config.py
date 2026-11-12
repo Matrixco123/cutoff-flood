@@ -137,3 +137,19 @@ EXCLUDED_ROAD_TYPES = {
 }
 BUILDING_MIN_CONFIDENCE = 0.70   # Google Open Buildings v3: drop outlines below this
 FACILITY_MERGE_M = 50            # health facility points closer than this are one facility
+
+# ---------------------------------------------------------------------------
+# Cut-off analysis (08_cutoff_villages.ipynb)
+# ---------------------------------------------------------------------------
+# Population units: fixed squares built from WorldPop. Replaces building clusters,
+# which chained whole towns into one "village" and missed most people (NOTES.md).
+POP_UNIT_M = 500
+MIN_UNIT_PEOPLE = 1
+
+# Health facilities that count as a place to go for care.
+FACILITY_KINDS = {"hospital", "clinic", "centre", "doctors"}
+FACILITY_EXCLUDE_NAME_WORDS = ["dental", "dentist", "pharma", "medicos", "medical hall",
+                               "diagnostic", "pathology", "optical", "eye care", "veterinary"]
+
+STRIP_SAMPLE_M = 5          # sample points every 5 m along and across each road strip
+DETOUR_LONG_RATIO = 2.0     # a route at least twice the normal length counts as a long detour

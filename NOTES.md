@@ -161,3 +161,23 @@ Decisions (in `src/config.py`):
 - PROBLEM 3, tiny groups: 59% of settlements have fewer than 5 buildings (median 2 among "no road access"). Mostly isolated sheds or false detections in fields.
 - Decision: replace building clusters with fixed 500 m population squares built straight from WorldPop (people counted 100% by construction, no chaining, equal-size units). Done inside notebook 08, so the network does not need rebuilding. Open Buildings kept only as a cross-check.
 - Visual check of 10 villages: NOT done yet.
+
+## Week 4: Cut-off analysis (`08_cutoff_villages.ipynb`)
+
+Status: RUN 1 DONE (2026-11-13, run by Claude on the Step 6 and Step 7 outputs). Results in `results/cutoff_run1/`. PROVISIONAL: the flood map is not yet validated on Assam labels, and the OSM visual check is not done.
+
+Method changes from the plan (all in `src/config.py`):
+- Population units = 500 m squares from WorldPop 2020 constrained (replaces building clusters). 17,899 squares, 2,213,930 people in the three districts (Charaideo 488k, Jorhat 916k, Sivasagar 810k), close to expected district totals.
+- Each square joins the nearest junction that reaches a facility on a normal day (skips disconnected map fragments), up to 500 m; 1,000 m tested as sensitivity.
+- Facilities counted: 205 (hospital, clinic, health centre, doctors; dentists, pharmacies, diagnostics etc. dropped by type or name).
+- Flooded share per road stretch: points every 5 m along and at 4 positions across the 20 m strip, per model. Checked against true strip polygons on 290 stretches: mean absolute difference 0.045.
+- A square counts as "dry" if under 25% of it is flooded on the majority map; only dry squares are counted as "dry but cut off".
+- Long detour = route at least 2 times the normal length.
+
+Run 1 results (road blocked if > 20% of strip flooded, join within 500 m):
+- Blocked road length per model: 502 to 933 km (of 16,367 km).
+- People in dry squares cut off from every facility by road: 167,805 (all 5 models), 314,899 (majority map), 507,722 (any model). 339,917 people are uncertain (1 to 4 of 5 models): more than the number all five agree on. This is the answer to sub-question 4.
+- Threshold sensitivity (majority map): 10% -> 436,700; 20% -> 314,899; 40% -> 178,844 people.
+- Join distance 1,000 m: majority-map cut off 439,744 (more people on the network).
+- NOT COUNTED: 735,217 people (33%) live in squares with no road reaching a facility within 500 m on a normal day; only 348 of those squares look like map gaps (a disconnected road nearby). Most are simply far from any mapped road: OpenStreetMap is missing many village lanes or tracks. Biggest limitation of the results so far; the visual check must quantify it.
+- 111,380 people on the network live in squares at least 25% flooded (need rescue, not a road; reported separately).

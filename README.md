@@ -41,6 +41,7 @@ cutoff-flood/
     05_export_assam.ipynb            Week 4: export Assam radar, JRC and HAND on one grid (Colab)
     06_predict_assam.ipynb           Week 4: run the 5 models on Assam, make flood maps (Kaggle)
     07_build_network.ipynb           Week 4: roads, health facilities, villages, population (Colab)
+    08_cutoff_villages.ipynb         Week 4: blocked roads, cut-off squares, likelihood, people (Colab)
   data/
     raw/               downloaded data, saved with dates (not pushed to GitHub)
     processed/         cleaned data ready for the model (not pushed)

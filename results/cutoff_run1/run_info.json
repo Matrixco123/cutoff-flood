@@ -1,0 +1,22 @@
+{
+ "pop_unit_m": 500,
+ "snap_max_m": 500,
+ "thresholds": [
+  0.1,
+  0.2,
+  0.4
+ ],
+ "main_threshold": 0.2,
+ "detour_long_ratio": 2.0,
+ "facility_kinds": [
+  "centre",
+  "clinic",
+  "doctors",
+  "hospital"
+ ],
+ "facilities_counted": 205,
+ "strip_width_m": 20,
+ "strip_sample_m": 5,
+ "units": 17899,
+ "people": 2213930.0
+}
