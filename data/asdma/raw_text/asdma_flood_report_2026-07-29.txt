@@ -1,0 +1,1886 @@
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | Assam Flood Report as on 29 | - | 07 | - | 2026
+ | Particulars |   | Assam Flood Report as on 29 | - | 07 | - | 2026
+ | Rivers |  | Rivers flowing above danger level |   | Nil
+ | flowing
+ | above
+ | Danger
+ | Level (as
+ | Rivers flowing above highest flood |   | level |   | Nil
+ | per CWC
+ | bulletin
+ | issued at 8
+ | AM)
+ | District |  | No. of |  | Name of Affected Districts
+ | Affected |  | Districts
+ | Affected
+ | 7 |   | Charaideo, Golaghat, Sivasagar, Nagaon, Biswanath, Jorhat, Kamrup (M)
+ | No. Of |  | 21
+ | Revenue
+ | Circles
+ | Affected
+ | Name Of |  | District |   | Total |   | Revenue |   | Circle
+ | Revenue
+ | Biswanath |   | 2 |   | Halem, Gohpur
+ | Circle
+ | Charaideo |   | 2 |   | Mahmora, Sonari
+ | Affected
+ | Golaghat |   | 4 |   | Golaghat, Khumtai, Bokakhat, Dergaon
+ | Jorhat |   | 5 |   | Jorhat West, Titabor, Mariani, Jorhat East, Teok
+ | Kamrup (M) |   | 1 |   | Sonapur
+ | Nagaon |   | 2 |   | Nagaon, Samaguri
+ | Sivasagar |   | 5 |   | Nazira, |   | Sivsagar, Amguri, Demow, Sonari RC part
+ | Total |   | 21
+ | Villages |  | District |   | Total |   | Revenue Circle
+ | Affected
+ | Charaideo |   | 117 |   | (Mahmora | 28), (Sonari | 89)
+ | Golaghat |   | 75 |   | (Golaghat | 24), (Khumtai | 14), (Bokakhat | 11), (Dergaon | 26)
+ | Sivasagar |   | 242 |   | (Nazira | |   | 40), (Sivsagar | 137), (Amguri | 31), (Demow | 19), (Sonari RC part | 15)
+ | Nagaon |   | 16 |   | (Nagaon | 14), (Samaguri | 2)
+ | Biswanath |   | 12 |   | (Halem | 10), (Gohpur | 2)
+ | Jorhat |   | 82 |   | (Jorhat West | 39), (Titabor | 12), (Mariani | 8), (Jorhat East | 7), (Teok | 16)
+ | Kamrup (M) |   | 8 |   | (Sonapur | 8)
+ | Total |   | 552
+ | Population |  | District |   | Male |   | Female |   | Children |   | Total Population |   | Total Crop Area (in Hect.) |   | Population and Crop Area Details
+ | And Crop |  | Biswanath |   | 0 |   | 0 |   | 0 |   | 0 |   | 14.5 |   | (Halem | Population Affected: 0 | Crop Area
+ | Area
+ | Submerged: 9.5), (Gohpur | Population Affected: 0 |
+ | Submerged |  | Crop Area Submerged: 5)
+ | Cachar |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | (Silchar | Population Affected: 0 | Crop Area
+ | Submerged: 0)
+ | Charaideo |   | 53177 |   | 60691 |   | 23693 |   | 137561 |   | 11600 |   | (Mahmora | Population Affected: 16015 | Crop Area
+ | Submerged: 5000), (Sonari | Population Affected:
+ | 121546 | Crop Area Submerged: 6600)
+ | Dhemaji |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | (Jonai | Population Affected: 0 | Crop Area
+ | Submerged: 0)
+ | Dibrugarh |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | (Naharkatia | Population Affected: 0 | Crop Area
+ | Submerged: 0), |   | (Tengakhat | Population Affected: 0 |
+ | Crop Area Submerged: 0), (Dibrugarh West |
+ | Population Affected: 0 | Crop Area Submerged: 0),
+ | (Moran | Population Affected: 0 | Crop Area
+ | Submerged: 0)
+ | Golaghat |   | 12755 |   | 10812 |   | 4392 |   | 27959 |   | 1720.85 |   | (Golaghat | |   | Population Affected: 11015 | Crop Area
+ | Submerged: 830), (Khumtai | Population Affected:
+ | 3544 | Crop Area Submerged: 420), (Bokakhat |
+ | Population Affected: 1143 | Crop Area Submerged:
+ | 75), (Dergaon | Population Affected: 12257 | Crop
+ | Area Submerged: 395.85)
+ | Jorhat |   | 20467 |   | 20660 |   | 8784 |   | 49911 |   | 864.7 |   | (Jorhat West | Population Affected: 39350 | Crop
+ | Area Submerged: 0), (Titabor | Population Affected:
+ | 1591 | Crop Area Submerged: 662.7), (Mariani |
+ | Population Affected: 0 | Crop Area Submerged: 0),
+ | (Jorhat East | Population Affected: 416 | Crop Area
+ | Submer | ged: 12), (Teok | Population Affected: 8554 |
+ | Crop Area Submerged: 190)
+=== PAGE 1 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | Kamrup (M) |   | 0 |   | 0 |   | 0 |   | 0 |   | 107 |   | (Sonapur | Population Affected: 0 | Crop Area
+ | Submerged: 107)
+ | Lakhimpur |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | (Narayanpur | Population |   | Affected: 0 | Crop Area
+ | Submerged: 0)
+ | Nagaon |   | 0 |   | 0 |   | 0 |   | 0 |   | 559 |   | (Nagaon | Population Affected: 0 | Crop Area
+ | Submerged: 460), (Samaguri | Population Affected: 0
+ | | Crop Area Submerged: 99)
+ | Sivasagar |   | 38222 |   | 36971 |   | 9407 |   | 84600 |   | 6657.03 |   | (Nazira | Population |   | Affected: 13043 | Crop Area
+ | Submerged: 5238), (Sivsagar | Population Affected:
+ | 44983 | Crop Area Submerged: 359), (Amguri |
+ | Population Affected: 18645 | Crop Area Submerged:
+ | 340.03), (Demow | Population Affected: 4353 | Crop
+ | Area Submerged: 320), (Sonari R | C part | Population
+ | Affected: 3576 | Crop Area Submerged: 400)
+ | Sribhumi |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | (Patherkandi | Population Affected: 0 | Crop Area
+ | Submerged: 0)
+ | Total |   | 124621 |   | 129134 |   | 46276 |   | 300031 |   | 21523.08
+ | Relief |  | District |   | Total |   | Relief Camp |   | Relief Distribution Centres
+ | Camps / |  | Biswanath |   | 0 |   | 0 (Halem | 0), (Gohpur | 0) |   | 0 (Halem | 0), (Gohpur | 0)
+ | Centres
+ | Cachar |   | 0 |   | 0 (Silchar | 0) |   | 0 (Silchar | 0)
+ | Opened
+ | Charaideo |   | 10 |   | 5 (Mahmora | 3), (Sonari | 2) |   | 5 (Mahmora | 0), (Sonari | 5)
+ | Dhemaji |   | 0 |   | 0 (Jonai | 0) |   | 0 (Jonai | |   | 0)
+ | Dibrugarh |   | 0 |   | 0 (Naharkatia | 0), (Tengakhat | 0), (Dibrugarh |  | 0 (Naharkatia | 0), (Tengakhat | 0), (Dibrugarh West | 0), (Moran | 0)
+ | West | 0), (Moran | 0)
+ | Golaghat |   | 16 |   | 7 (Golaghat | 5), (Khumtai | 2), (Bokakhat | 0), |  | 9 (Golaghat | 1), |   | (Khumtai | 0), (Bokakhat | 0), (Dergaon | 8)
+ | (Dergaon | 0)
+ | Jorhat |   | 17 |   | 13 (Jorhat West | 5), (Titabor | 0), (Mariani | 0), |  | 4 (Jorhat West | 0), (Titabor | 1), (Mariani | 0), (Jorhat East | 1), (Teok |
+ | (Jorhat East | 0), (Teok | 8) |  | 2)
+ | Kamrup (M) |   | 0 |   | 0 (Sonapur | 0) |   | 0 |   | (Sonapur | 0)
+ | Lakhimpur |   | 0 |   | 0 (Narayanpur | 0) |   | 0 (Narayanpur | 0)
+ | Nagaon |   | 0 |   | 0 (Nagaon | 0), (Samaguri | 0) |   | 0 (Nagaon | 0), (Samaguri | 0)
+ | Sivasagar |   | 58 |   | 46 (Nazira | 11), (Sivsagar | 11), (Amguri | 16), |  | 12 (Nazira | |   | 0), (Sivsagar | 5), (Amguri | 0), (Demow | 7), (Sonari RC part
+ | (Demow | 8), (Sonari RC part | 0) |  | | 0)
+ | Sribhumi |   | 0 |   | 0 (Patherkandi | 0) |   | 0 (Patherkandi | 0)
+ | Total |   | 101 |   | 71 |   | 30
+ | Inmates In |  | District |   | Total |   | Revenue Circlewise |   | Male |   | Female |   | Children |   | Pregnant |  | Person with Disability
+ | Relief |  | /
+ | Camps |  | Lactating
+ | Mother
+ | Biswanath |   | 0 |   | (Halem | 0), (Gohpur | 0) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Cachar |   | 0 |   | (Silchar | 0) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Charaideo |   | 479 |   | (Mahmora | 121), (Sonari | 358) |   | 173 |   | 234 |   | 60 |   | 8 |   | 4
+ | Dhemaji |   | 0 |   | (Jonai | 0) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Dibrugarh |   | 0 |   | (Naharkatia | 0), |   | (Tengakhat | 0), |  | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | (Dibrugarh West | 0), (Moran | 0)
+ | Golaghat |   | 422 |   | (Golaghat | 362), (Khumtai | 60), |  | 142 |   | 175 |   | 90 |   | 15 |   | 0
+ | (Bokakhat | 0), (Dergaon | 0)
+ | Jorhat |   | 1080 |   | (Jorhat West | 889), (Titabor | 0), |  | 434 |   | 437 |   | 194 |   | 12 |   | 3
+ | (Mariani | 0), (Jorhat East | 0), (Teok |
+ | 191)
+ | Kamrup (M) |   | 0 |   | (Sonapur | 0) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Lakhimpur |   | 0 |   | (Narayanpur | 0) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Nagaon |   | 0 |   | (Nagaon | 0), (Samaguri | 0) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Sivasagar |   | 14586 |   | (Nazira | 3081), (Sivsagar | 5737), |  | 6614 |   | 6290 |   | 1668 |   | 10 |   | 4
+ | (Amguri | 5236), (Demow | 532),
+ | (Sonari RC part | 0)
+ | Sribhumi |   | 0 |   | (Patherkandi | 0) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Total |   | 16567 |   | 7363 |   | 7136 |   | 2012 |   | 45 |   | 11
+ | Non Camp |  | District |   | Total |   | Revenue Circlewise |   | Male |   | Female |   | Children |   | Animals
+ | Inmates in |  | Big |   | Small |   | Poultry
+ | Relief
+ | Biswanath |   | 0 |   | (Halem | 0), (Gohpur | 0) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Distribution
+ | Cachar |   | 0 |   | (Silchar | 0) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Centers
+ | Charaideo |   | 0 |   | (Mahmora | 0), (Sonari | 0) |   | 0 |   | 0 |   | 0 |   | 546 |   | 704 |   | 986
+ | Dhemaji |   | 0 |   | (Jonai | 0) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Dibrugarh |   | 0 |   | (Naharkatia | 0), (Tengakhat | 0), |  | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | (Dibrugarh West | 0), (Moran | 0)
+=== PAGE 2 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | Golaghat |   | 839 |   | (Golaghat | 80), (Khumtai | 0), |  | 441 |   | 301 |   | 97 |   | 466 |   | 445 |   | 0
+ | (Bokakhat | 0), (Dergaon | 759)
+ | Jorhat |   | 351 |   | (Jorhat West | 0), (Titabor | 0), |  | 137 |   | 128 |   | 86 |   | 971 |   | 1222 |   | 0
+ | (Mariani | 0), (Jorhat East | 0), (Teok |
+ | 351)
+ | Kamrup (M) |   | 0 |   | (Sonapur | 0) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Lakhimpur |   | 0 |   | (Narayanpur | 0) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Nagaon |   | 0 |   | (Nagaon | 0), (Samaguri | 0) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Sivasagar |   | 71020 |   | (Nazira | 0), (Sivsagar | 70701), |  | 28678 |   | 28991 |   | 13351 |   | 341 |   | 433 |   | 0
+ | (Amguri | 0), (Demow | 319), (Sonari
+ | RC part | 0)
+ | Sribhumi |   | 0 |   | (Patherkandi | 0) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Total |   | 72210 |   | 29256 |   | 29420 |   | 13534 |   | 2324 |   | 2804 |   | 986
+ | Human |  | District |   | Total |   | Flood Death |   | General |  | Male |   | Female |   | Children |   | Others |   | Revenue Circlewise
+ | Lives Lost |   | - |  | Drowni |  | Male |   | Female
+ | Confirmed |  | ng (Non
+ | Flood)
+ | Charaideo |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Mahmora | 0), (Sonari | 0)
+ | Golaghat |   | 1 |   | 1 |   | 0 |   | 1 |   | 0 |   | 0 |   | 0 |   | 0 |   | 1 (Golaghat | 0), (Khumtai | 0),
+ | (Bokakhat | 0), (Dergaon | 1)
+ | Sivasagar |   | 2 |   | 2 |   | 0 |   | 1 |   | 1 |   | 0 |   | 0 |   | 0 |   | 2 (Nazira | 1), (Sivsagar | 0),
+ | (Amguri | 0), (Demow | 0), (Sonari
+ | RC part | 1)
+ | Sribhumi |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Patherkandi | 0)
+ | Nagaon |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Nagaon | 0), (Samaguri | 0)
+ | Dibrugarh |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Naharkatia | 0), (Tengakhat | 0),
+ | (Dibrugarh West | 0), (Moran | 0)
+ | Biswanath |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Halem | 0), |   | (Gohpur | 0)
+ | Jorhat |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Jorhat West | 0), (Titabor | 0),
+ | (Mariani | 0), (Jorhat East | 0),
+ | (Teok | 0)
+ | Kamrup (M) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Sonapur | 0)
+ | Dhemaji |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Jonai | 0)
+ | Cachar |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Silchar | 0)
+ | Lakhimpur |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Narayanpur | 0)
+ | Total |   | 3 |   | 3 |   | 0 |   | 2 |   | 1 |   | 0 |   | 0 |   | 0
+ | Human |  | District |   | Total |   | Male |   | Female |   | Children |   | Others |   | Revenue Circlewise
+ | Lives Lost |   | -
+ | Male |   | Female
+ | Missing
+ | Charaideo |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Mahmora | 0), (Sonari | 0)
+ | Golaghat |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Golaghat | 0), (Khumtai | 0), (Bokakhat | 0),
+ | (Dergaon | 0)
+ | Sivasagar |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Nazira | 0), (Sivsagar | 0), (Amguri | 0), (Demow |
+ | 0), (Sonari RC part | 0)
+ | Sribhumi |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Patherkandi | 0)
+ | Nagaon |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Nagaon | 0), |   | (Samaguri | 0)
+ | Dibrugarh |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Naharkatia | 0), (Tengakhat | 0), (Dibrugarh West |
+ | 0), (Moran | 0)
+ | Biswanath |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Halem | 0), (Gohpur | 0)
+ | Jorhat |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Jorhat West | 0), (Titabor | 0), (Mariani | 0),
+ | (Jorhat East | 0), |   | (Teok | 0)
+ | Kamrup (M) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Sonapur | 0)
+ | Dhemaji |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Jonai | 0)
+ | Cachar |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Silchar | 0)
+ | Lakhimpur |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 (Narayanpur | 0)
+ | Total |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Animals |  | District |   | Total |   | Big |   | Small |   | Poultry
+ | Affected |  | Biswanath |   | 0 |   | 0 |   | 0 |   | 0
+ | Cachar |   | 0 |   | 0 |   | 0 |   | 0
+ | Charaideo |   | 3126 |   | 606 |   | 884 |   | 1636
+ | Dhemaji |   | 0 |   | 0 |   | 0 |   | 0
+ | Dibrugarh |   | 0 |   | 0 |   | 0 |   | 0
+ | Golaghat |   | 891 |   | 446 |   | 445 |   | 0
+ | Jorhat |   | 4090 |   | 1879 |   | 1581 |   | 630
+ | Kamrup (M) |   | 0 |   | 0 |   | 0 |   | 0
+ | Lakhimpur |   | 0 |   | 0 |   | 0 |   | 0
+ | Nagaon |   | 4080 |   | 2520 |   | 1560 |   | 0
+ | Sivasagar |   | 4834 |   | 891 |   | 1531 |   | 2412
+=== PAGE 3 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | Sribhumi |   | 0 |   | 0 |   | 0 |   | 0
+ | Total |   | 17021 |   | 6342 |   | 6001 |   | 4678
+ | Animals |  | District |   | Total |   | Big |   | Small |   | Poultry
+ | Washed |  | Biswanath |   | 0 |   | 0 |   | 0 |   | 0
+ | Away
+ | Cachar |   | 0 |   | 0 |   | 0 |   | 0
+ | Charaideo |   | 0 |   | 0 |   | 0 |   | 0
+ | Dhemaji |   | 0 |   | 0 |   | 0 |   | 0
+ | Dibrugarh |   | 0 |   | 0 |   | 0 |   | 0
+ | Golaghat |   | 0 |   | 0 |   | 0 |   | 0
+ | Jorhat |   | 11170 |   | 34 |   | 123 |   | 11013
+ | Kamrup (M) |   | 0 |   | 0 |   | 0 |   | 0
+ | Lakhimpur |   | 0 |   | 0 |   | 0 |   | 0
+ | Nagaon |   | 0 |   | 0 |   | 0 |   | 0
+ | Sivasagar |   | 0 |   | 0 |   | 0 |   | 0
+ | Sribhumi |   | 0 |   | 0 |   | 0 |   | 0
+ | Total |   | 11170 |   | 34 |   | 123 |   | 11013
+ | Houses |  | District |   | Fully/Se |  | Fully/Severe |  | Fully/Severely Total |   | Partially |  | Partially Pukka |   | Partially Total
+ | Damaged |  | verely |  | ly Pukka |  | Kuccha
+ | Kuccha
+ | Charaideo |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Golaghat |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Sivasagar |   | 56 |   | 2 |   | 58 |   | 105 |   | 29 |   | 134
+ | Sribhumi |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Nagaon |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Dibrugarh |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Biswanath |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Jorhat |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Kamrup (M) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Dhemaji |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Cachar |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Lakhimpur |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Total |   | 56 |   | 2 |   | 58 |   | 105 |   | 29 |   | 134
+ | Houses |  | District |   | Others Huts |   | Others Cattle Shed |   | Others Total
+ | Damaged |  | Charaideo |   | 0 |   | 0 |   | 0
+ | Others
+ | Golaghat |   | 0 |   | 0 |   | 0
+ | Sivasagar |   | 58 |   | 54 |   | 112
+ | Sribhumi |   | 0 |   | 0 |   | 0
+ | Nagaon |   | 0 |   | 0 |   | 0
+ | Dibrugarh |   | 0 |   | 0 |   | 0
+ | Biswanath |   | 0 |   | 0 |   | 0
+ | Jorhat |   | 0 |   | 0 |   | 0
+ | Kamrup (M) |   | 0 |   | 0 |   | 0
+ | Dhemaji |   | 0 |   | 0 |   | 0
+ | Cachar |   | 0 |   | 0 |   | 0
+ | Lakhimpur |   | 0 |   | 0 |   | 0
+ | Total |   | 58 |   | 54 |   | 112
+ | Rescue |  | District |   | Agency |   | Other Agencies Involved |   | Medical Team |  | Boats |  | Person |  | Animal |  | Helicopte |  | Person
+ | Operation |  | Deployed |  | Deploye |  | Evacuate |  | Evacuate |  | rs |  | Evacuated By
+ | d |  | d By |  | d By |  | Deployed |  | Helicopters
+ | Boats |  | Boats
+ | Biswanath |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Cachar |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Charaideo |   | health,veterinary |   | 21 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Dhemaji |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Dibrugarh |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Golaghat |   | 7 |   | 1 |   | 0 |   | 0 |   | 0 |   | 0
+ | Jorhat |   | 2 |   | 2 |   | 0 |   | 0 |   | 0 |   | 0
+ | Kamrup (M) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Lakhimpur |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Nagaon |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Sivasagar |   | Circle Office/Local |  | 78 |   | 17 |   | 0 |   | 0 |   | 0 |   | 0
+ | Administration, SDRF, Civil
+ | Defence/Trained Volunteers,
+ | Circle Office/Local
+ | Administration, SDRF
+ | Sribhumi |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Total |   | 108 |   | 20 |   | 0 |   | 0 |   | 0 |   | 0
+=== PAGE 4 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | Relief |  | District |   | Rice (in |  | Dal (in Q) |   | Salt (in |  | M. Oil (in L) |   | Cattle Feed |  | Cattle Feed |   | - |  | Cattle Feed |   | - |   | Rice Bran (in Q)
+ | Distributed |  | Q) |  | Q) |  | - |   | Green |  | Wheat Bran (in Q)
+ | Fooder (in
+ | Q)
+ | Biswanath |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Cachar |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Charaideo |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 50.4 |   | 0
+ | Dhemaji |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Dibrugarh |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Golaghat |   | 35.76 |   | 6.327 |   | 1.8931 |   | 189.81 |   | 0 |   | 0 |   | 29.95
+ | Jorhat |   | 5.81 |   | 1.05 |   | 0.32 |   | 31.59 |   | 0 |   | 52.6 |   | 0
+ | Kamrup (M) |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Lakhimpur |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Nagaon |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Sivasagar |   | 361.29 |   | 64.29 |   | 19.34 |   | 2222.567 |   | 0 |   | 763.52 |   | 0
+ | Sribhumi |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0 |   | 0
+ | Total |   | 402.86 |   | 71.667 |   | 21.5531 |   | 2443.967 |   | 0 |   | 866.52 |   | 29.95
+ | Relief |  | District |   | Baby Food Liquid |   | Baby Food Solid |   | Others
+ | Distributed |  | Biswanath
+ | - |   | Others
+ | Cachar
+ | Charaideo |   | 0 | - | Kg |   | 0 | - | Kg
+ | Dhemaji
+ | Dibrugarh |   | Halogen Tablet | - | 2050 | - | Nos, Water Pouch | - | 2150 | - | Pck., Bleaching Powder | - | 23.8 | - | Kg
+ | Golaghat |   | 0 | - | Q, 35 | - | L |   | 0 | - | Q, 35 | - | Kg |   | Sanitary Napkins | - | 200 | - | Pck., Phenyl | - | 200 | - | Ltr., Bleaching Powder | - | 100 | - | Kg, Mineral
+ | Water | - | 1400 | - | Ltr., |   | Tarpaulin | - | 200 | - | Pcs, Biscuits | - | 70 | - | Pck., Sugar | - | 35 | - | Kg
+ | Jorhat |   | 0 | - | Kg, 0 | - | L |   | 0 | - | L, 0 | - | Kg |   | Mineral Water | - | 9555 | - | Ltr., Halogen Tablet | - | 2882 | - | Nos, Water Purification Packet | - | 1014 | -
+ | 100g/Pck., Water Pouch | - | 1000 | - | Pck., Candle | - | 21600 | - | Pcs
+ | Kamrup (M)
+ | Lakhimpur
+ | Nagaon
+ | Sivasagar |   | 0 | - | Kg, 150 | - | L |   | 86 | - | Kg |   | Bleaching Powder | - | 1760 | - | Kg, Halogen Tablet | - | 6410 | - | Nos, Mineral Water | - | 48384 | - | Ltr.,
+ | Phenyl | - | 1104 | - | Ltr., Sanitary Napkins | - | 840 | - | Pck., Tarpaulin | - | 2000 | - | Pcs, Mosquito Coil | - | 250 | -
+ | Pck.
+ | Sribhumi
+ | Infrastructu |  | District |   | Number |   | Revenue |  | Road Name |   | Departmen |  | Village |   | Location |   | Longitud |  | Latitude |   | Remarks
+ | re Damaged |  | Circle |  | t |  | e
+ | - |   | Road
+ | Biswanath |   | 2 |   | (Halem | 1) |   | Ghimorujan to Jakapara |  | PWD |  | Jakapara |   | Ghimorujan |   | - |  | 93.5720 |  | 26.83140 |  | side berm
+ | Road |  | (Roads) |  | Jakapara |  | 35 |  | 3 |  | affected for a
+ | reach length of
+ | 700 m |   | (approx)
+ | (Gohpur | 1) |   | Panigaon road |   | PWD |  | DUBIA PATHAR |   | Panigaon road at |  | 93.6936 |  | 26.90044 |  | 70 | - | 80 mtr. road
+ | (Roads) |  | Dubia Pathar |  | 4 |  | 2 |  | submerged due
+ | to water level
+ | rising in Dubia
+ | river.
+ | Cachar |   | 8 |   | (Silchar | 8) |   | Nayagram to Rangti Basti |  | PWD |  | Ambicapur Part |   | – |  | Nayagram Rangti |   | As reported by
+ | Road |  | (Roads) |  | VIII |  | EE PWD
+ | Borkhola
+ | Katigorah TRD
+ | the damaged
+ | was occured
+ | heavy
+ | rainfall/Water
+ | logging on
+ | 24.07.2026,
+ | however the
+ | damaged
+ | reprot is
+ | received on
+ | 28.07.2026, Ch.
+ | 00.00 m to Ch.
+ | 2400.00m
+ | Bairagi |   | Bazar to |  | PWD |  | Pathari Gram |   | Pathari Gram, |  | As reported by
+ | Patharigram Phase II |  | (Roads) |  | Bairagi Bazar |  | EE PWD
+ | Borkhola
+ | Katigorah TRD
+ | the damaged
+ | was occured
+=== PAGE 5 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | heavy
+ | rainfall/Water
+ | logging on
+ | 24.07.2026,
+ | however the
+ | damaged
+ | reprot is
+ | received on
+ | 28.07.2026, Ch.
+ | 0.00 m to
+ | Ch.700.00m,
+ | Ch. 1000.00 m
+ | to Ch.
+ | 1700.00m
+ | Jaroiltala Chandranathpur |  | PWD |  | Jaroiltola |   | Jaroiltala |  | As reported by
+ | Road |  | (Roads) |  | Chandranathpur |  | EE PWD
+ | Borkhola
+ | Katigorah TRD
+ | the damaged
+ | was occured
+ | heavy
+ | rainfall/Water
+ | logging on
+ | 24.07.2026,
+ | however the
+ | damaged
+ | reprot is
+ | received on
+ | 28.07.2026, Ch.
+ | 1000.00 m to
+ | Ch.1300.00m,
+ | Ch. 3,400.00m
+ | Barsangan Kowapar Road |  | PWD |  | Barsangan Grant |   | Barsangan |  | As reported by
+ | to Nunapani |  | (Roads) |  | kuwapar |  | EE |   | PWD
+ | Nunapani |  | Borkhola
+ | Katigorah TRD
+ | the damaged
+ | was occured
+ | heavy
+ | rainfall/Water
+ | logging on
+ | 24.07.2026,
+ | however the
+ | damaged
+ | reprot is
+ | received on
+ | 28.07.2026, Ch.
+ | 1000.00 m to
+ | Ch.1200.00m.,
+ | Ch. 1200.00m
+ | to
+ | Ch.1400.00m
+ | Kalingar Road |   | PWD |  | Kalinagar Part |   | – |   | I |   | Kalingar Pt I |   | As reported by
+ | (Roads) |  | EE PWD
+ | Borkhola
+ | Katigorah TRD
+ | the damaged
+ | was occured
+ | heavy
+ | rainfall/Water
+ | logging on
+ | 24.07.2026,
+ | however the
+ | damaged
+ | reprot is
+ | received on
+ | 28.07.2026, Ch.
+ | 400.00 m to
+ | Ch.450.00.m.
+=== PAGE 6 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | Ganigram PWD Road |   | PWD |  | Chandranathpur |   | Chandpur |  | As reported by
+ | (Roads) |  | Gonigram |  | EE PWD
+ | Borkhola
+ | Katigorah TRD
+ | the damaged
+ | was occured
+ | heavy
+ | rainfall/Water
+ | logging on
+ | 24.07.2026,
+ | however the
+ | damaged
+ | reprot is
+ | received on
+ | 28.07.2026, Ch.
+ | 6500.00 m
+ | Silchar Hailakandi Road |  | PWD |  | Irongmara Grant |   | Dorgakuna |   | As reported by
+ | near |   | Assam University |  | (Roads) |  | EE PWD
+ | Borkhola
+ | Katigorah TRD
+ | the damaged
+ | was occured
+ | heavy
+ | rainfall/Water
+ | logging on
+ | 24.07.2026,
+ | however the
+ | damaged
+ | reprot is
+ | received on
+ | 28.07.2026, Ch.
+ | 12,400.00 m.
+ | Masimpur Kumartilla |  | PWD |  | Masimpur Grant |   | Kumartilla |   | As reported by
+ | Road Phase I, II |  | (Roads) |  | EE PWD
+ | Borkhola
+ | Katigorah TRD
+ | the damaged
+ | was occured
+ | heavy
+ | rainfall/Water
+ | logging on
+ | 24.07.2026,
+ | however the
+ | damaged
+ | reprot is
+ | received on
+ | 28.07.2026, Ch.
+ | 1400.00 m to
+ | Ch.2500.00.m.
+ | Charaideo |   | 0 |   | (Mahmora | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Sonari | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Dhemaji |   | 0 |   | (Jonai | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Dibrugarh |   | 0 |   | (Naharkatia |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | (Tengakhat | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Dibrugarh |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | West | 0)
+ | (Moran | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Golaghat |   | 0 |   | (Golaghat | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Khumtai | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Bokakhat | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Dergaon | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+=== PAGE 7 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | Jorhat |   | 3 |   | (Jorhat West |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | (Titabor | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Mariani | 2) |   | Puroikhowa to Gabharu |   | PWD |  | Phukanhabi Gaon |   | Machkhowa, |  | 94.4529 |  | 26.70091 |   | Erosion of side
+ | (Roads) |  | Puroikhowa, |  | 85 |  | slope at single
+ | Mogroi |  | side of the
+ | bridge (Br no
+ | 1/2 Puroikhowa
+ | to Gabharu
+ | Naginijan T.E road |   | PWD |  | Naginijan |   | Naginijan T.E and |  | 94.4509 |  | 26.68003 |  | Erosion of side
+ | (Roads) |  | Mogroi |  | 19 |  | 1 |  | slope at |   | both
+ | sides of the
+ | bridge (Br no
+ | 3/1 Naginijan
+ | TE Road)
+ | (Jorhat East |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | (Teok | 1) |   | Seleng TE Road |   | PWD |  | Boisahabi Grant |   | Seleng TE |   | 94.5107 |  | 26.76952
+ | (Roads) |  | 9 |  | 2
+ | Kamrup (M) |   | 0 |   | (Sonapur | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | Lakhimpur |   | 0 |   | (Narayanpur |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | Nagaon |   | 0 |   | (Nagaon | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Samaguri | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | Sivasagar |   | 34 |   | (Nazira | 6) |   | Dimow kinar b/r to 3/1 |  | PWD |  | Amkotia Gohain |   | dimow |   | kinar
+ | dimow kinar |  | (Roads)
+ | Amkotia ali to mechagarh |   | PWD |  | Amkotia Gohain |   | amkotia
+ | (Roads)
+ | Bahgarh ali b/r 1/1 to |  | PWD |  | Mechagarh Gohain |   | Mechagarh
+ | mechagarh |  | (Roads)
+ | Garali Borpool to Gar Ali |  | PWD |  | Gohain Gaon |   | Gohain Gaon
+ | Gohain Gaon |  | (Roads)
+ | Chattai ali to B/r no 21 to |  | PWD |  | Maduri Gohain |   | madhuri
+ | Madhuri molagaon roads |  | (Roads)
+ | Naginimara jojoli to |  | PWD |  | Tipomia |   | Naginimara jojoli
+ | tiponia Roads |  | (Roads) |  | to tiponia
+ | (Sivsagar | 4) |   | Baksu Na Ali Road |   | PWD |  | Dimual |   | Dimual |   | 94.7435 |  | 26.97660 |  | Damage due to
+ | (Roads) |  | 02 |  | 3 |  | Flood
+ | Kakojan Khelua Road |   | PWD |  | Dimual |   | Dimual Khelua |   | 94.7687 |  | 26.97213 |  | Damage due to
+ | (Roads) |  | 08 |  | 2 |  | Flood
+ | Baksu to Dhitai |  | PWD |  | Kotaki Koch |   | Kotaki Koch |   | 94.7509 |  | 26.97543 |  | Damage due to
+ | Connecting Road Via |  | (Roads) |  | 13 |  | 7 |  | Flood
+ | Kotaki Koch
+ | Dimual Dorika Road |   | PWD |  | Dimual |   | Dimual |   | 94.7404 |  | 26.97571 |  | Damage due to
+ | (Roads) |  | 81 |  | 2 |  | Flood
+ | (Amguri | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Demow | |  | Deroi Koibartta road |   | PWD |  | Khamun |   | Khamun |   | 94.7361 |  | 27.0572 |   | damage due to
+ | 24) |  | (Roads) |  | 9 |  | flood
+ | Potia Gaon Road |   | PWD |  | Potia |   | potia |   | 94.7678 |  | 27.03669 |   | damage due to
+ | (Roads) |  | 6 |  | flood
+ | Tetelitol to Hologuri Road |   | PWD |  | Chandbasa |   | Chandbesa |   | 94.7896 |  | 27.04985 |  | Damage due to
+ | (Roads) |  | 98 |  | 7 |  | Flood
+ | Guwala Basti road |   | PWD |  | Khamun |   | Guwala Basti |   | 94.7328 |  | 27.03762 |  | damage due to
+ | (Roads) |  | 85 |  | 8 |  | flood
+ | Kutuhaguri road |   | PWD |  | Jabalating |   | Jabalating |   | 94.7690 |  | 27.01920 |  | damage due to
+ | (Roads) |  | 9 |  | 9 |  | flood
+ | Bakhor Bengena Road |   | PWD |  | Dehinga |   | Jabalating |   | 94.7603 |  | 27.02171 |  | damage due to
+ | (Roads) |  | 28 |  | 1 |  | flood
+ | Hologuri new line |   | to |  | PWD |  | Halaguri Bagisha |   | Halaguri Bagicha |   | 94.8318 |  | 27.09073 |  | damage due to
+ | kakotihabi road |  | (Roads) |  | 2 |  | 7 |  | flood
+ | Khamun Khanikar Gaon |  | PWD |  | 2 no Konwar Gaon |   | 2 No. Konwar |  | 94.7335 |  | 27.03920 |  | damage due to
+ | road |  | (Roads) |  | Gaon |  | 7 |  | 4 |  | flood
+ | Kutharkota to |   | Goroimari |  | PWD |  | Amlaguri Bagisha |   | Amlaguri |   | 94.8028 |  | 27.07622 |  | damage due to
+ | road |  | (Roads) |  | 97 |  | 3 |  | flood
+ | Nemuguri Kharahat |  | PWD |  | Deoriting |   | Deoriting |   | 94.7693 |  | 27.04764 |  | damage due to
+ | Connecting road |  | (Roads) |  | 43 |  | 2 |  | flood
+=== PAGE 8 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | Father Ali road |   | PWD |  | Amlaguri |   | Bagisha |   | Amlaguri |   | 94.8098 |  | 27.07697 |  | damage due to
+ | (Roads) |  | 55 |  | 7 |  | flood
+ | Chenimora to Mousal |  | PWD |  | Amlaguri Bagisha |   | Mousal |   | 94.7665 |  | 27.07362 |   | damage due to
+ | Road |  | (Roads) |  | 61 |  | flood
+ | Jutuliting to Kalithan Road |   | PWD |  | Chandbasa |   | Chandbesa |   | 94.7790 |  | 27.0472 |   | damage |   | due to
+ | (Roads) |  | 2 |  | flood
+ | Boropial Habi to Borbam |  | PWD |  | Boropial Habi |   | Boropial habi |   | 94.7689 |  | 27.04568 |   | damage due to
+ | road |  | (Roads) |  | 7 |  | flood
+ | Nitai Khamun road |   | PWD |  | Khamun |   | Khamun |   | 94.7323 |  | 27.03684 |   | damage due to
+ | (Roads) |  | 8 |  | flood
+ | Deoriting bagan Borline |  | PWD |  | Deoriting |   | Deoriting |   | 94.7645 |   | 27.0518 |   | damage due to
+ | road |  | (Roads) |  | flood
+ | Punibil Chandbesa road |  | PWD |  | Chandbasa |   | Chandbessa |   | 94.7834 |  | 27.05337 |   | damage due to
+ | to Mohkhuti Pothar road |  | (Roads) |  | 66 |  | flood
+ | Mohkhuti Tiniali to |  | PWD |  | Mohkhuti Grant |   | Mohkhuti |   | 94.7491 |  | 27.06199 |  | damage due to
+ | Mohkhuti Bagan line road |  | (Roads) |  | 21 |  | 7 |  | flood
+ | Khamun Mazdur Ali road |   | PWD |  | Khamun |   | Khamun |   | 94.7586 |  | 27.05827 |  | damage due to
+ | (Roads) |  | 9 |  | 3 |  | flood
+ | Kutharkota to Mousal |  | PWD |  | Amlaguri Bagisha |   | Amlaguri |   | 94.8023 |  | 27.07958 |  | damage due to
+ | road |  | (Roads) |  | 63 |  | 3 |  | flood
+ | Saral Pathar to Gohain |  | PWD |  | Charal Pather |   | Charal Pathar |   | 94.7727 |  | 27.06196 |   | damage due to
+ | chuk road |  | (Roads) |  | 3 |  | flood
+ | Deoriting Boropial habi |  | PWD |  | Boropial Habi |   | Boropial Habi |   | 94.7610 |  | 27.05528 |  | damage due to
+ | road |  | (Roads) |  | 26 |  | 9 |  | flood
+ | (Sonari RC |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | part | 0)
+ | Sribhumi |   | 0 |   | (Patherkandi |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | Total |   | 47
+ | Infrastructu |  | District |   | Number |   | Revenue |  | Bridge Name |   | Departmen |  | Village |   | Location |   | Longitud |  | Latitude |   | Remarks
+ | re Damaged |  | Circle |  | t |  | e
+ | - |   | Bridge
+ | Biswanath |   | 0 |   | (Halem | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Gohpur | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Cachar |   | 0 |   | (Silchar | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Charaideo |   | 0 |   | (Mahmora | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Sonari | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Dhemaji |   | 0 |   | (Jonai | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Dibrugarh |   | 0 |   | (Naharkatia |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | (Tengakhat | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Dibrugarh |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | West | 0)
+ | (Moran | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Golaghat |   | 0 |   | (Golaghat | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Khumtai | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Bokakhat | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Dergaon | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | Jorhat |   | 0 |   | (Jorhat West |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | (Titabor | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Mariani | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Jorhat East |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | (Teok | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Kamrup (M) |   | 0 |   | (Sonapur | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | Lakhimpur |   | 0 |   | (Narayanpur |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | Nagaon |   | 0 |   | (Nagaon | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Samaguri | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | Sivasagar |   | 0 |   | (Nazira | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+=== PAGE 9 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | (Sivsagar | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Amguri | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Demow | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Sonari RC |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | part | 0)
+ | Sribhumi |   | 0 |   | (Patherkandi |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | Total |   | 0
+ | Infrastructu |  | District |   | Number |   | Revenue |  | Embankment Breached |  | Departmen |  | Village |   | Location |   | Longitud |  | Latitude |   | Remarks
+ | re Damaged |  | Circle |  | Name |  | t |  | e
+ | - |  | Biswanath |   | 2 |   | (Halem | 2) |   | Chatrang Embankment |   | Water |  | Madhya |  | Madhya |  | 93.6153 |  | 26.86893 |  | Due to sharp
+ | Embankme
+ | Resource |  | Chatranguri |  | Chatranguri |  | 99 |  | 4 |  | current of flood
+ | nt Breached |  | Deptt. |  | water and
+ | heavy rain,
+ | breach like
+ | damage
+ | occurred to the
+ | R/Bank of
+ | chatrang Agri
+ | bund for a
+ | reach length of
+ | 20 m near
+ | Madhya
+ | Chatranguri
+ | Charang Embankment |   | Water |  | Delhouse Bagicha |   | Delhouse Bagicha |   | 93.6165 |  | 26.87073 |  | Due to sharp
+ | Resource |  | 62 |  | 8 |  | current of flood
+ | Deptt. |  | water and
+ | heavy rain,
+ | breach like
+ | damage
+ | occurred to the
+ | L/Bank of
+ | chatrang PNRD
+ | Agri bund for a
+ | reach length of
+ | 27 m near
+ | Delhouse
+ | Bagicha and
+ | Purupbari WLA | -
+ | 28
+ | (Gohpur | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Cachar |   | 0 |   | (Silchar | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Charaideo |   | 0 |   | (Mahmora | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Sonari | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Dhemaji |   | 0 |   | (Jonai | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Dibrugarh |   | 0 |   | (Naharkatia |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | (Tengakhat | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Dibrugarh |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | West | 0)
+ | (Moran | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Golaghat |   | 0 |   | (Golaghat | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Khumtai | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Bokakhat | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Dergaon | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | Jorhat |   | 0 |   | (Jorhat West |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | (Titabor | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Mariani | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Jorhat East |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | (Teok | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+=== PAGE 10 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | Kamrup (M) |   | 0 |   | (Sonapur | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | Lakhimpur |   | 0 |   | (Narayanpur |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | Nagaon |   | 0 |   | (Nagaon | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Samaguri | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | Sivasagar |   | 0 |   | (Nazira | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Sivsagar | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Amguri | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Demow | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Sonari RC |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | part | 0)
+ | Sribhumi |   | 0 |   | (Patherkandi |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | Total |   | 2
+ | Infrastructu |  | District |   | Number |   | Revenue |  | Embankment Affected |  | Departmen |  | Village |   | Location |   | Longitud |  | Latitude |   | Remarks
+ | re Damaged |  | Circle |  | Name |  | t |  | e
+ | -
+ | Biswanath |   | 0 |   | (Halem | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Embankme
+ | (Gohpur | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | nt Affected
+ | Cachar |   | 0 |   | (Silchar | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Charaideo |   | 0 |   | (Mahmora | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Sonari | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Dhemaji |   | 0 |   | (Jonai | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Dibrugarh |   | 0 |   | (Naharkatia |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | (Tengakhat | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Dibrugarh |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | West | 0)
+ | (Moran | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Golaghat |   | 0 |   | (Golaghat | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Khumtai | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Bokakhat | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | (Dergaon | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | Jorhat |   | 0 |   | (Jorhat West |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | (Titabor | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Mariani | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Jorhat East |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | (Teok | |   | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Kamrup (M) |   | 0 |   | (Sonapur | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | Lakhimpur |   | 0 |   | (Narayanpur |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | Nagaon |   | 0 |   | (Nagaon | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Samaguri | |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | 0)
+ | Sivasagar |   | 4 |   | (Nazira | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Sivsagar | 4) |   | Darika Bund R/B from |  | Water |  | Kathpar |   | Kathpar |   | Overtoping
+ | Dhaiali to Desangmukh |  | Resource |  | from Ch. 150M
+ | PWD rOAD |  | Deptt. |  | to 1150 M.
+ | Darika Bund L/B from |  | Water |  | KhataPathar |   | Raghuguri, |  | Ovrtopping
+ | Bahgarh to AT road. |  | Resource |  | Gohanchuk, |  | from Ch.
+ | Deptt. |  | Khatapathar |  | 1200m to
+ | 2100m, 2300m
+ | to 2785 m,
+ | 3250m to
+ | 5370m
+ | Darika Bund L/B from NH |  | Water |  | DeoliaKhat |   | Gauravnagar, |  | Ovrtopping
+ | way to Dhaiali |  | Resource |  | Deoliakhat, |  | from Ch. 40m
+ | Deptt. |  | Baniabari |  | to 80m, 1550 m
+=== PAGE 11 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | to 1850 m,
+ | 2240m to
+ | 2340m, 2400m
+ | to 2500m.
+ | Darika Bund R/B from AT |  | Water |  | Nowjan |   | Nowjan, |  | 94.6504 |  | 27.00482 |  | Overtoping
+ | Road to Dhaiali |  | Resource |  | Mechgaon |  | 38 |  | 2 |  | from Ch. 000 to
+ | Deptt. |  | 2200m, from
+ | 3865 to 4740 M
+ | (Amguri | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Demow | 0) |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | (Sonari RC |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | part | 0)
+ | Sribhumi |   | 0 |   | (Patherkandi |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | | 0)
+ | Total |   | 4
+ | Infrastructu |  | District |   | Revenue |  | Damages |   | Number |   | Name |   | Departmen |  | Village |   | Location |   | Longitud |  | Latitude |   | Remarks
+ | re Damaged |  | Circle |  | t |  | e
+ | - |   | Others |  | Biswanath |   | Halem |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Gohpur |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Cachar |   | Silchar |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Charaideo |   | Mahmor |  | Anganwadi |  | 5 |   | 1 No Hologuri |  | Women & |  | No.1 Sologuri |   | 1 No Hologuri |   | 94.8461 |  | 27.07528
+ | a |  | Centres |  | AWC |  | Child |  | 85 |  | 8
+ | Affected (in |  | Developme
+ | Nos) |  | nt
+ | BAHBARI and |  | Women & |  | Bahboria Habi |  | bahbarihabi |   | 95.0441 |  | 27.08868
+ | HATIMURIA |  | Child |  | Gaon |  | 03 |  | 8
+ | AWC |  | Developme
+ | nt
+ | Tiphuk Habi A |  | Women & |  | Tiphuk Habi |   | tiphuk habi |   | 94.8883 |  | 27.07579
+ | AWC |  | Child |  | 73 |  | 7
+ | Developme
+ | nt
+ | Uttar Moranjan |  | Women & |  | Moranjan Gaon |   | Moranjan Gaon |   | 94.9193 |  | 27.07467
+ | AWC |  | Child |  | 81 |  | 6
+ | Developme
+ | nt
+ | Kachumari B |  | Women & |  | Kachumari |   | Kachumari |   | 94.9317 |  | 27.12069
+ | AWC |  | Child |  | 38 |  | 3
+ | Developme
+ | nt
+ | Sonari |   | Public |  | 2 |   | Lakua BPHC |   | Health & |  | Nahar Habi Gaon |   | Nahar Habi Gaon |   | 94.8379 |  | 27.00043
+ | Health |  | Family |  | 6 |  | 6
+ | Centre (PHC) |  | Welfare
+ | (in Nos)
+ | Sonari Urban |  | Health & |  | Sonari Town |   | Sonari |   | 95.0178 |  | 27.02647
+ | PHC |  | Family |  | 64
+ | Welfare
+ | Health Sub | - |  | 3 |   | Singlopathar SC |   | Health & |  | Sonari Town |   | Sonari Town |   | 95.0312 |   | 27.028
+ | Centre (in |  | Family
+ | Nos) |  | Welfare
+ | District |  | Health & |  | Sonari Town |   | Sonari |   | 95.0182 |  | 27.02583
+ | Tuberculosis |  | Family |  | 77 |  | 2
+ | Office, Sonari |  | Welfare
+ | Charaideo
+ | Cholapathar SC |   | Health & |  | Nara Gaon |   | Nara Gaon |   | 94.9105 |  | 27.02440
+ | Family |  | 76 |  | 8
+ | Welfare
+ | Dhemaji |   | Jonai |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Dibrugarh |   | Naharka |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | tia
+ | Tengakh |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | at
+ | Dibrugar |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | h West
+ | Moran |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Golaghat |   | Golagha |  | Elementary |  | 6 |   | Hindupur |  | Education |  | Chalang Pothar FV |   | Chalang pathar
+ | t |  | Schools |  | sisumukti Lp |  | Deptt. |  | FV
+ | School
+=== PAGE 12 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | Damaged (in |  | No. 11 Salikihat |  | Education |  | Da | - |   | Borahi |   | Da | - | borahi gaon |   | 0 |   | 0
+ | Nos) |  | LPS |  | Deptt.
+ | Bocha Kumar |  | Education |  | Bosa Gaon |   | Bosa gaon |   | 0 |   | 0
+ | MES |  | Deptt.
+ | Borchari Lp |  | Education |  | Borkachari( |  | Borkachari gaon |   | 94.054 |   | 26.494
+ | School |  | Deptt. |  | Athgaon Mouza)
+ | Kopohuating |  | Education |  | Kapahuwating |   | Kapahuating |   | 0 |   | 0
+ | Napowa LPS |  | Deptt.
+ | Bosa Bhorolu LPS |   | Education |  | Bosa Gaon |   | Bosa gaon |   | 0 |   | 0
+ | Deptt.
+ | Fisheries/Po |  | 2.86 |   | Fishery |   | Fishery |   | Bosa Gaon |   | Bosa gaon and |  | 30 nos. farmers
+ | nd (in Hect.) |  | Borkachari |  | affected.
+ | Agri Bundh |  | 1 |   | Agri bund |   | Panchayat |  | Mahimelia |   | Mahimelia and |  | 0 |   | 0
+ | Damaged (in |  | and Rural |  | Athkhelia
+ | Nos) |  | Deptt.
+ | Khumtai |   | Fisheries/Po |  | 0.056 |   | Pond |   | Fishery |   | Buralikson |  | Buralikson |   | 1 Farmer with
+ | nd (in Hect.) |  | (Khumtai Mouza) |  | area 0.056 Ha
+ | Bokakha |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | t
+ | Dergaon |   | Fisheries/Po |  | 0.412 |   | Fishery/ Pond |   | Fishery |   | Dakhin Dolijalia |   | Dakhin Dolijalia |   | 0 |   | 0 |   | Submerged and
+ | nd (in Hect.) |  | damaged
+ | Jorhat |   | Jorhat |  | Fisheries/Po |  | 4.15 |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | West |  | nd (in Hect.)
+ | Titabor |   | Irrigation |  | 3 |   | Charaipani FIS |   | Irrigation |   | 56 no Grant |   | 56 No grant, |  | 94.2091 |  | 26.54756 |  | U/s afflux
+ | Canal/Schem |  | Turung GP |  | 3 |  | 6 |  | bund, Qtty | - | 150
+ | e Damaged |  | mt. Chainage | -
+ | (in Nos) |  | 150mt to 300
+ | mt.
+ | Naginijurijan FIS |   | Irrigation |   | Sukanjan Gaon |   | Sukanjan, |  | 94.1470 |  | 26.38024 |  | U/s afflux
+ | Christan Basti, |  | 77 |  | 6 |  | bund, Qtty | - | 100
+ | Raidangjuri GP |  | mt. Chainage | -
+ | 50 mt to 150
+ | mt
+ | Dhekiajuli DTW |  | Irrigation |   | Buruk Borua Gaon |   | Buruk Baruah |  | 94.2050 |  | 26.67110 |  | Transformer
+ | Scheme(Point |  | Gaon, 75 No |  | 5 |  | 2 |  | damage |   | - |   | 1 |   | No.
+ | No 3) |  | Rangajan GP
+ | Mariani |   | Fisheries/Po |  | 0.75 |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | nd (in Hect.)
+ | Jorhat |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | East
+ | Teok |   | Fisheries/Po |  | 19.6 |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | nd (in Hect.)
+ | Kamrup (M) |   | Sonapur |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Lakhimpur |   | Narayan |  | Hump Pipe |  | 1 |   | Hume pipe |   | Panchayat |  | No1 Dhemagarh |   | No 1 Dhemagarh |   | One hume pipe
+ | pur |  | (in Nos) |  | and Rural |  | culvert washed
+ | Deptt. |  | away at vill
+ | no.1
+ | dhemagarh on
+ | dated
+ | 29/07/2026
+ | Road |  | 1 |   | Earthen road |   | Panchayat |  | No1 Dhemagarh |   | No.1 Dhemagarh |   | As per report
+ | Breaches (in |  | and Rural |  | from gaon
+ | Nos) |  | Deptt. |  | pradhan due to
+ | heavy rainfall
+ | and
+ | consequent rise
+ | in river water
+ | level the
+ | earthen road
+ | was washed
+ | away on dated
+ | 29/07/2026
+ | Nagaon |   | Nagaon |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | Samagur |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | i
+ | Sivasagar |   | Nazira |   | Handloom & |  | 11200 |   | Weavers Losing |  | Handloom |  | Santak grant |   | santak |   | 0 |   | 0 |   | Total Affected
+ | Textile Deptt |  | Yarn |  | & Textile |  | Weavers Losing
+ | (in Nos) |  | Yarn (Nos.)
+=== PAGE 13 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | 5600 nos of
+ | villages under
+ | Nazira Reve
+ | circle till today
+ | affected
+ | villages names
+ | Amkotia
+ | Gohain gaon
+ | Mechagarh
+ | Gohain
+ | Maduri Gohain
+ | HulangKatoni
+ | GelekeyBortani
+ | gaon
+ | Lahon gaon
+ | Simaluguri
+ | town
+ | committee
+ | Abhoipuria
+ | Chuladhara
+ | Gelekey Moran
+ | gaon
+ | Likson gaon
+ | Dulakakharia
+ | Chetia
+ | Handique
+ | Pohuchungi
+ | Sundar pukhuri
+ | Mothiachiga
+ | Leferachuk
+ | Tipomia
+ | Bailung gaon
+ | Luthuri gaon
+ | Bharalua
+ | Raunapohuchu
+ | ngi
+ | Hatimuria
+ | Bogoriguri
+ | Bantung
+ | Tekelichuk
+ | Kopohua
+ | BorMiching
+ | gaon
+ | Lakhimi
+ | pukhuri
+ | Handique gaon
+ | Baulimoidam
+ | Santak
+ | Bihubor
+ | Changdhora
+ | Namdongia
+ | Nazira
+ | Municipality
+ | Sundar pukhuri
+ | Galekey
+ | Bogdoi
+ | Affected Looms |   | Handloom |  | Santak grant |   | Santak Grant |   | 0 |   | 0 |   | Total Affected
+ | & Textile |  | Looms (Nos.)
+ | 5600 of villages
+ | under Nazira
+ | Revenue circle
+ | till today
+ | affected
+ | villages names
+ | Amkotia
+ | Gohain gaon
+ | Mechagarh
+ | Gohain
+=== PAGE 14 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | Maduri Gohain
+ | HulangKatoni
+ | GelekeyBortani
+ | gaon
+ | Lahon gaon
+ | Simaluguri
+ | town
+ | committee
+ | Abhoipuria
+ | Chuladhara
+ | Gelekey Moran
+ | gaon
+ | Likson gaon
+ | Dulakakharia
+ | Chetia
+ | Handique
+ | Pohuchungi
+ | Sundar pukhuri
+ | Mothiachiga
+ | Leferachuk
+ | Tipomia
+ | Bailung gaon
+ | Luthuri gaon
+ | Bharalua
+ | Raunapohuchu
+ | ngi
+ | Hatimuria
+ | Bogoriguri
+ | Bantung
+ | Tekelichuk
+ | Kopohua
+ | BorMiching
+ | gaon
+ | Lakhimi
+ | pukhuri
+ | Handique gaon
+ | Baulimoidam
+ | Santak
+ | Bihubor
+ | Changdhora
+ | Namdongia
+ | Nazira
+ | Municipality
+ | Sundar pukhuri
+ | Galekey
+ | Bogdoi
+ | Fisheries/Po |  | 151 |   | Ponds under |  | Fishery |   | Mechagarh Gohain |   | villages affected |  | 0 |   | 0 |   | Date
+ | nd (in Hect.) |  | mechagarh |  | Mechagarg 3 ha |  | 29/07/2026
+ | Villages |  | Chetia Handique |  | Nazira Revenue
+ | Gaon 2 ha |  | Circle
+ | Nazira town 3 ha |  | Nos of flood
+ | Tipomia 2 ha |  | affected pond
+ | Pator gaon 2 ha. |  | 151
+ | Adabari Handique |  | Area of pond
+ | gaon 3 ha |  | 15 ha
+ | Village
+ | Mechagarh
+ | GP Joymoti GP
+ | Sivsagar |   | Elementary |  | 33 |   | 625 NO. |  | Education |  | No.3 Khula Grazing |   | No.3khula |  | 94.5043 |  | 26.93828 |  | Submerged
+ | Schools |  | SILPUKHURI LPS |  | Deptt. |  | Grazing |  | 83 |  | 3
+ | Damaged (in
+ | 706 NO. |  | Education |  | No.3 Khula Grazing |   | No. 3 khula |  | 94.4945 |  | 26.94413 |  | Submerged
+ | Nos) |  | KALIYARI LPS |  | Deptt. |  | Grazing |  | 33 |  | 3
+ | 323 NO. |  | Education |  | Hatighuli |   | Hatighuli |   | 94.5151 |  | 26.93411 |  | Submerged
+ | HATIGHULI LPS |  | Deptt. |  | 83 |  | 7
+ | 661 NO. |  | Education |  | Hatighuli |   | Hatighuli |   | 94.5070 |  | 26.93195 |   | Submerged
+ | PATUACHALA |  | Deptt. |  | 67
+ | LPS
+=== PAGE 15 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | 2 NO. KOLIORY |  | Education |  | No.2 Khula Grazing |   | No. 2 Khula |  | 94.4900 |  | 26.95428 |  | Submerged
+ | LPS |  | Deptt. |  | Grazing |  | 33 |  | 3
+ | 732 NO. |  | Education |  | Patuachala |   | Patuachala |   | 94.5092 |  | 26.92431 |  | Submerged
+ | BORJIARY LPS |  | Deptt. |  | 33 |  | 7
+ | 61 NO. |  | Education |  | Khoradhora |   | Khoradhara |   | 94.5001 |  | 26.98526 |  | Submerged
+ | KHORADHARA |  | Deptt. |  | 83 |  | 7
+ | LPS
+ | DUBDARIA MES |   | Education |  | No.1 Mout |  | No.1 Mout Ghar |  | 94.4647 |  | 26.94335 |   | Submerged
+ | Deptt. |  | Gharfalia |  | Pholia |  | 33
+ | 877 NO. |  | Education |  | No.1 Mout |  | No.1 Mout Ghar |  | 94.4658 |  | 26.94066 |  | Submerged
+ | DOBDARIA LPS |  | Deptt. |  | Gharfalia |  | Pholia |  | 33 |  | 7
+ | NAPAM |  | Education |  | Napamua Bukajan |   | Na Pamua |  | 94.4750 |  | 26.95225 |   | Submerged
+ | BOKAJAN MES |  | Deptt. |  | Bokajan |  | 17
+ | KHANAMUKH |  | Education |  | No.2 Maut |  | No.2 Mout Ghar |  | 94.4737 |  | 26.93655 |   | Submerged
+ | MIDDLE SCHOOL |  | Deptt. |  | Gharfalia |  | Pholia |  | 5
+ | KHANAMUKH |  | Education |  | No.2 Maut |  | No. 2 Maut |  | 94.4737 |  | 26.93713 |  | Submerged
+ | H.S.S |  | Deptt. |  | Gharfalia |  | Gharfalia |  | 83 |  | 3
+ | MADHABDEV |  | Education |  | Napamua Bukajan |   | Napamua |  | 94.4696 |  | 26.96038 |  | Submerged
+ | LPS |  | Deptt. |  | Bukajan |  | 33 |  | 3
+ | 758 NO. |  | Education |  | Charaiduba |   | Charaiduba |   | 94.4605 |  | 26.96008 |  | Submerged
+ | DIMORUGURI |  | Deptt. |  | 33 |  | 3
+ | LPS
+ | MADHYA |  | Education |  | Bhitarual Nora |   | Bhitarual Nora |  | 94.4794 |  | 26.91743 |  | Submerged
+ | BHITORUAL LPS |  | Deptt. |  | Gaon |  | 5 |  | 3
+ | MADHAB DEV |  | Education |  | Bhitarual Nora |   | Bhitorual Nora |  | 94.4797 |   | 26.92426 |  | Submerged
+ | MES |  | Deptt. |  | Gaon |  | 7
+ | 800 NO. |  | Education |  | Majnora |   | Majnora |   | 94.4819 |  | 26.90444 |  | Submerged
+ | PECKMONIA LPS |  | Deptt. |  | 44 |  | 4
+ | 1 NO NAVAJYOTI |  | Education |  | No.1 |  | No.1 Chintamoni |  | 94.4403 |  | 26.93841 |  | Submerged
+ | LPS |  | Deptt. |  | Chintamonigarh |  | Garh |  | 67 |  | 7
+ | 373 NO. |  | Education |  | No.1 |  | No.1 Chintamoni |  | 94.4472 |   | 26.94138 |  | Submerged
+ | CHINTAMONIGA |  | Deptt. |  | Chintamonigarh |  | Garh |  | 3
+ | RH LPS
+ | 709 NO. |  | Education |  | No.1 |  | No.1 Chintamoni |  | 94.4318 |  | 26.94093 |  | Submerged
+ | JARABARI LPS |  | Deptt. |  | Chintamonigarh |  | Garh |  | 17 |  | 3
+ | 2 NO. |  | Education |  | No. 2 |  | Cintamonigarh |  | 94.4460 |  | 26.95291 |  | Submerged
+ | CHINTAMONIGA |  | Deptt. |  | Chintamonigarh |  | No.2 |  | 5 |  | 7
+ | RH BORTAL LPS
+ | 2 NO. MAJGAON |  | Education |  | No.1 |  | No.1 Chintamoni |  | 94.4196 |  | 26.94343 |  | Submerged
+ | LPS |  | Deptt. |  | Chintamonigarh |  | Garh |  | 33 |  | 3
+ | 757 NO. |  | Education |  | No.1 Mout |  | No.1 Mout |   | Ghar |  | 94.4669 |  | 26.94878 |  | Submerged
+ | KHUTORAHABI |  | Deptt. |  | Gharfalia |  | Pholia |  | 67 |  | 3
+ | LPS
+ | SOUMAR MES |   | Education |  | Tipomia |   | Tipomia |   | 94.4495 |  | 26.94133 |  | SUBMERGED
+ | Deptt. |  | 67 |  | 3
+ | MOKALANI MIRI |  | Education |  | Charaiduba |   | Charai Duba |   | 94.4055 |  | 26.93785 |   | SUBMERGED
+ | GOVT. JR. BASIC |  | Deptt. |  | 5
+ | SCHOOL
+ | RONGPUR MES |   | Education |  | Jula Gaon |   | Joysagar |   | 94.6262 |  | 26.95788 |  | SUBMERGED
+ | Deptt. |  | 83 |  | 3
+ | 604 NO. |  | Education |  | Dicial Dhulia |   | Dicial Dhulia |  | 94.6147 |  | 26.97716 |  | SUBMERGED
+ | MOUPURIA LPS |  | Deptt. |  | Gaon |  | 33 |  | 7
+ | 101 NO. UPPER |  | Education |  | Lahingia |   | Lahingia |   | 94.5864 |  | 26.98306 |  | SUBMERGED
+ | BON GAON LPS |  | Deptt. |  | 67 |  | 7
+ | 435 NO. JOLA |  | Education |  | Jula Gaon |   | Julagaon |   | 94.6354 |  | 26.9634 |   | SUBMERGED
+ | GAON LPS |  | Deptt. |  | 67
+ | 462 NO. |  | Education |  | Bongaon |   | BONGAON |   | 94.5630 |  | 26.97 |   | SUBMERGED
+ | BHATIBON |  | Deptt. |  | 83
+ | GAON LPS
+ | 2 NO. MAJGAON |  | Education |  | No.1 |  | No.1 Chintamoni |  | 94.4196 |  | 26.94343 |  | Submerged
+ | LPS |  | Deptt. |  | Chintamonigarh |  | Garh |  | 33 |  | 3
+ | JAYA LPS |   | Education |  | Jula Gaon |   | Joysagar |   | 94.6117 |  | 26.9735 |   | Submerged
+ | Deptt. |  | 83
+ | 585 NO. |  | Education |  | Tipomia |   | Tipomia |   | 94.4545 |  | 26.94133 |  | Submerged
+ | TIPOMIA LPS |  | Deptt. |  | 5 |  | 3
+ | Anganwadi |  | 85 |   | 153 NO |  | Women & |  | Banmukh Dihingia |   | Rongpur |   | 94.6733 |  | 26.95177 |  | Damage due to
+ | Centres |  | HINGHADUWA |  | Child |  | 69 |  | 2 |  | Flood
+=== PAGE 16 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | Affected (in |  | Developme
+ | Nos) |  | nt
+ | 105 NORUPOHI |  | Women & |  | BailungPathar |   | Rudrasagar |   | 94.6062 |  | 26.97312 |   | Damage |   | due to
+ | POTHAR |  | Child |  | 09 |  | Flood
+ | Developme
+ | nt
+ | 102 NO |  | Women & |  | Norakonwar |  | Mogorahat |   | 94.5655 |  | 26.93423 |  | Damage due to
+ | AILAHABI |  | Child |  | Bailung |  | 28 |  | 7 |  | Flood
+ | Developme
+ | nt
+ | 103 NO |  | Women & |  | Motok Gohain |   | Mogorahat |   | 94.5993 |  | 26.92522 |  | Damage due to
+ | MOGORAHAT |  | Child |  | 8 |  | 9 |  | Flood
+ | CHANGMAI |  | Developme
+ | nt
+ | 91 NO SALOGURI |   | Women & |  | Sensua |   | Salaguri |   | 94.6412 |  | 26.92834 |  | Damage due to
+ | Child |  | 28 |  | 3 |  | Flood
+ | Developme
+ | nt
+ | 92 NO PAHI |  | Women & |  | No. 2 Rupahimukh |  | Salaguri |   | 94.6314 |  | 26.92749 |  | Damage due to
+ | GAON |  | Child |  | Miri |  | 52 |  | 9 |  | Flood
+ | Developme
+ | nt
+ | 109 NO BHATI |  | Women & |  | Bhatiapar |   | Rudrasagar |   | 94.5568 |  | 26.97052 |  | Damage due to
+ | BON GAON |  | Child |  | 01 |  | 8 |  | Flood
+ | Developme
+ | nt
+ | 93 NO DEMOW |  | Women & |  | Demowmukh |   | Salaguri |   | 94.6514 |  | 26.93858 |   | Damage due to
+ | POTHAR |  | Child |  | 25 |  | Flood
+ | Developme
+ | nt
+ | 95 NO |  | Women & |  | Senchowa |   | Salaguri |   | 94.6322 |  | 26.95674 |  | Damage due to
+ | SUNDARPUR |  | Child |  | 68 |  | 1 |  | Flood
+ | Developme
+ | nt
+ | 116 NO |  | Women & |  | Jula Gaon |   | Rongpur |   | 94.6354 |  | 26.96336 |  | Damage due to
+ | JULAGAON |  | Child |  | 29 |  | 2 |  | Flood
+ | Developme
+ | nt
+ | POLOKHANI |   | Women & |  | BailungPathar |   | DICHANGPAR |   | 94.6273 |  | 27.01711 |  | Damage due |   | to
+ | Child |  | 75 |  | 8 |  | Flood
+ | Developme
+ | nt
+ | GOHAIN GAON |  | Women & |  | Dicial |   | DICHANGPAR |   | 94.7637 |  | 27.20142 |  | Damage due to
+ | NO.1 |  | Child |  | 88 |  | 3 |  | Flood
+ | Developme
+ | nt
+ | MITHAPUKHURI |   | Women & |  | Mathadang |   | BETBARI |   | 94.7025 |  | 27.03247 |  | Damage due to
+ | Child |  | 17 |  | 9 |  | Flood
+ | Developme
+ | nt
+ | JOYRAPAR NO.2 |   | Women & |  | Joyrapar |   | DICHANGPAR |   | 94.6315 |  | 27.03395 |  | Damage due to
+ | Child |  | 06 |  | 2 |  | Flood
+ | Developme
+ | nt
+ | Chole Gano A |   | Women & |  | Cholapather |   | Ward No. 10 |   | 94.6397 |  | 26.97403 |  | Damage due to
+ | Child |  | 77 |  | 6 |  | Flood
+ | Developme
+ | nt
+ | NIMAIJAN |   | Women & |  | Nimaijan |   | Lachit |   | 94.6733 |  | 26.99420 |  | Damage due to
+ | Child |  | 31 |  | 3 |  | flood
+ | Developme
+ | nt
+ | NIMAIJAN |  | Women & |  | Nimaijan |   | LACIT |   | 94.6838 |  | 27.00482 |  | damage due to
+ | DARIKA. |  | Child |  | 76 |  | 7 |  | flood
+ | Developme
+ | nt
+ | TAMULI | - |  | Women & |  | Tamuli Pukhuri |   | LACIT |   | 94.7258 |  | 27.00956 |  | Damage due to
+ | PUKHURI |  | Child |  | 94 |  | 5 |  | flood
+ | GANDHIYA
+=== PAGE 17 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | Developme
+ | nt
+ | 2 NO. KONWAR |  | Women & |  | No.2 Konwar Gaon |   | LACIT |   | 94.6640 |  | 27.01138 |  | Damage due to
+ | GAON |  | Child |  | 45 |  | 6 |  | flood
+ | Developme
+ | nt
+ | 1 NO. KONWAR |  | Women & |  | No.1 Konwar Gaon |   | LACIT |   | 94.6855 |  | 27.01844 |  | Damage due to
+ | GAON |  | Child |  | 7 |  | 1 |  | flood
+ | Developme
+ | nt
+ | DA | - | GAON |   | Women & |  | Da Gaon |   | LACIT |   | 94.6971 |  | 27.02313 |  | damage due to
+ | Child |  | 07 |  | 7 |  | flood
+ | Developme
+ | nt
+ | DUWARI GAON |   | Women & |  | Khelua |   | KHELUWA |   | 94.6988 |  | 27.00699 |  | Damage due to
+ | Child |  | 19 |  | 1 |  | flood
+ | Developme
+ | nt
+ | Ward No. 13 |  | Women & |  | Sivasagar Town |  | Ward No. 13 |   | 94.6418 |  | 26.99168 |  | Damage due to
+ | AWC |  | Child |  | Part | - | I |  | 82 |  | 5 |  | Flood
+ | Developme
+ | nt
+ | Sivasagar |  | Women & |  | Sivasagar Town |  | Ward No. 11 |   | 94.6439 |  | 26.98741 |   | Damage due to
+ | Polytechnique |  | Child |  | Part | - | I |  | 38 |  | Flood
+ | Developme
+ | nt
+ | BHA | - |   | DHARA |   | Women & |  | Bha Dhora |   | KHELUWA |   | 94.7065 |  | 26.99388 |  | Damage due to
+ | Child |  | 76 |  | 7 |  | Flood
+ | Developme
+ | nt
+ | KHELWA |   | Women & |  | Khelua |   | KHELUWA |   | 94.7277 |  | 26.98914 |  | Damage due to
+ | Child |  | 84 |  | 7 |  | Flood
+ | Developme
+ | nt
+ | KOTOKIKUCH |   | Women & |  | Khelua |   | KHELUWA |   | 94.7532 |  | 26.98774 |  | Damage due to
+ | Child |  | 08 |  | 3 |  | flood
+ | Developme
+ | nt
+ | KONWARGAON( |  | Women & |  | No.1 Konwar Gaon |   | KHELUWA |   | 94.7650 |  | 26.97822 |  | Damage due to
+ | 54) |  | Child |  | 13 |  | 3 |  | Flood
+ | Developme
+ | nt
+ | Chole Gaon B |   | Women & |  | Cholapather |   | Ward No. 10 |   | 94.6399 |  | 26.97424 |  | Damage due to
+ | Child |  | 76 |  | 1 |  | Flood
+ | Developme
+ | nt
+ | KUWAMORA |  | Women & |  | Dicial Dhulia |   | DICHANGPAR |   | 94.6504 |  | 27.02907 |  | Damage due to
+ | HANDIQUE NO.2 |  | Child |  | 15 |  | 4 |  | flood
+ | Developme
+ | nt
+ | KUWAMORA |  | Women & |  | DeoliaKhat |   | DICHANGPAR |   | 94.6541 |  | 27.04805 |  | Damage due to
+ | HANDIQUE NO.1 |  | Child |  | 39 |  | 2 |  | flood
+ | Developme
+ | nt
+ | AKHOIPHUTIA |  | Women & |  | Akhoifutia |   | DICHANGPAR |   | 94.6464 |  | 27.04248 |  | Damage due to
+ | NO.2 |  | Child |  | 87 |  | 6 |  | flood
+ | Developme
+ | nt
+ | AKHOIPHUTIA |  | Women & |  | Akhoifutia |   | DICHANGPAR |   | 94.6400 |  | 27.05774 |  | Damage due to
+ | NO.3 |  | Child |  | 3 |  | 4 |  | flood
+ | Developme
+ | nt
+ | AKHOIPHUTIA |  | Women & |  | Akhoifutia |   | DICHANGPAR |   | 94.6329 |  | 27.06017 |  | Damage due to
+ | NO.1 |  | Child |  | 28 |  | 9 |  | Flood
+ | Developme
+ | nt
+ | JOYRAPAR NO.1 |   | Women & |  | Joyrapar |   | DICHANGPAR |   | 94.6655 |  | 27.01837 |   | Damage due to
+ | Child |  | 41 |  | Flood
+=== PAGE 18 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | Developme
+ | nt
+ | 32 No.Silpukhuri |   | Women & |  | Hatighuli |   | Hatighuli |   | 94.5044 |  | 26.93829 |  | Damage due to
+ | Child |  | 48 |  | 5 |  | Flood
+ | Developme
+ | nt
+ | 39 NO 1 NO |  | Women & |  | Bha Dhora |   | Khonamukh |   | 94.4750 |  | 26.94489 |  | Damge due to
+ | MOUT |  | Child |  | 82 |  | 3 |  | Flood
+ | Developme
+ | nt
+ | 170 NO KOLIORY |   | Women & |  | Bha Dhora |   | Khonamukh |   | 94.4932 |  | 26.94787 |  | Damage due to
+ | Child |  | 21 |  | 6 |  | Flood
+ | Developme
+ | nt
+ | 41 NO |  | Water |  | Arjunguri |   | Khonamukh |   | 94.4797 |  | 26.92384 |  | Damage due to
+ | DIGHALIJAN |  | Resource |  | 63 |  | 5 |  | Flood
+ | Deptt.
+ | 128 NO |  | Women & |  | Hatighuli |   | Hatighuli |   | 94.4996 |  | 26.87161 |  | Damage due to
+ | MORANGAON |  | Child |  | 74 |  | 9 |  | Flood
+ | Developme
+ | nt
+ | 33 NO |  | Women & |  | Bongaon |   | Khonamukh |   | 94.4899 |  | 26.95431 |  | Damage due to
+ | CHABUKDHARA |  | Child |  | 68 |  | 8 |  | Flood
+ | KOLIORY |  | Developme
+ | nt
+ | 31 NO |  | Women & |  | Hatighuli |   | Hatighuli |   | 94.5154 |  | 26.93409 |  | Damage due to
+ | HATIGHULI |  | Child |  | 62 |  | 7 |  | Flood
+ | Developme
+ | nt
+ | 171 No |  | Women & |  | Hatighuli |   | Hatighuli |   | 94.5194 |  | 26.93721 |  | Damage due to
+ | Silpukhuri AWC |  | Child |  | 22 |  | 3 |  | Flood
+ | Developme
+ | nt
+ | 36 |  | Women & |  | Bagal Habi |   | Khonamukh |   | 94.4199 |  | 26.94302 |  | Damage due to
+ | No.Chintamonig |  | Child |  | 47 |  | 9 |  | flood
+ | arh |  | Developme
+ | nt
+ | 37 NO TIPOMIA |   | Women & |  | Bha Dhora |   | Khonamukh |   | 94.4545 |  | 26.94138 |  | Damage due to
+ | Child |  | 98 |  | 6 |  | Flood
+ | Developme
+ | nt
+ | 112 NO |  | Women & |  | Bhatiapar |   | Rudrasagar |   | 94.5510 |  | 26.95323 |  | Damage due to
+ | POTHALIAL |  | Child |  | 55 |  | 1 |  | flood
+ | Developme
+ | nt
+ | 101 NO JERENGA |  | Women & |  | Banmukh Dihingia |   | Mogorahat |   | 94.5742 |  | 26.92652 |  | Damge due to
+ | HABI |  | Child |  | 52 |  | 2 |  | flood
+ | Developme
+ | nt
+ | 34 NO |  | Women & |  | Hatighuli |   | Hatighuli |   | 94.4854 |  | 26.8849 |   | Damage due to
+ | NORAKONWAR |  | Child |  | 78 |  | flood
+ | BAILUNG |  | Developme
+ | nt
+ | 35 NO 1 NO |  | Women & |  | No.1 |  | Khonamukh |   | 94.4460 |  | 26.94871 |  | Damage due to
+ | CHINTAMONIGA |  | Child |  | Chintamonigarh |  | 27 |  | 7 |  | Flood
+ | RH |  | Developme
+ | nt
+ | 113 NO |   | DHULIA |  | Women & |  | Dicial Dhulia |   | Rongpur |   | 94.6146 |  | 26.97709 |  | Damage due to
+ | DICIAL |  | Child |  | 36 |  | 3 |  | Flood
+ | Developme
+ | nt
+ | 160 NO RUDRA |  | Women & |  | Bhatiapar |   | Rudrasagar |   | 94.6058 |  | 26.95490 |  | Damage due to
+ | SAGAR |  | Child |  | 02 |  | 6 |  | Flood
+ | NAPUKHURI |  | Developme
+ | nt
+ | 114 NO |  | Women & |  | Dicial Dhulia |   | Rongpur |   | 94.6230 |  | 26.97710 |  | Damage due to
+ | HATIKUKH |  | Child |  | 59 |  | 8 |  | flood
+ | Developme
+ | nt
+=== PAGE 19 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | 169 NO |  | Women & |  | Hatighuli |   | Hatighuli |   | 94.5031 |  | 26.91466 |   | Damage due to
+ | KASHIBARI |  | Child |  | 63 |  | Flood
+ | Developme
+ | nt
+ | 162 NO |  | Women & |  | Bhatiapar |   | Rudrasagar |   | 94.5808 |  | 26.95548 |  | Damage due to
+ | BHATIAPAR |  | Child |  | 41 |  | 8 |  | flood
+ | Developme
+ | nt
+ | 99 NO |  | Women & |  | Barpatra Gohain |   | Mogorahat |   | 94.5758 |  | 26.91568 |  | Damage due to
+ | GARKAKHORIA |  | Child |  | 1 |  | 2 |  | Flood
+ | Developme
+ | nt
+ | MAJI GAON. |   | Women & |  | Dui Ali Maj |   | BETBARI |   | 94.6739 |  | 27.02557 |  | Damage due to
+ | Child |  | 3 |  | 5 |  | Flood
+ | Developme
+ | nt
+ | KATONIPAR |   | Women & |  | Katonipar |   | BETBARI |   | 94.6716 |  | 27.03982 |   | Damage due to
+ | Child |  | 78 |  | Flood
+ | Developme
+ | nt
+ | LUTHURI CHETIA |  | Women & |  | Luthuri Chetia |   | BETBARI |   | 94.6778 |  | 27.02346 |  | Damage due to
+ | NO.1 |  | Child |  | 16 |  | 9 |  | Flood
+ | Developme
+ | nt
+ | LUTHURI |   | CHETIA |  | Women & |  | Luthuri Chetia |   | BETBARI |   | 94.6655 |  | 27.01726 |  | Damage due to
+ | NO.2 |  | Child |  | 41 |  | 9 |  | Flood
+ | Developme
+ | nt
+ | MERBILL NO.2 |   | Women & |  | Merbeel |   | BETBARI |   | 94.6679 |  | 27.02694 |  | Damage due to
+ | Child |  | 69 |  | 2 |  | Flood
+ | Developme
+ | nt
+ | CHETIA GAON. |   | Women & |  | Chetia Koibartta |   | BETBARI |   | 94.7004 |  | 27.02271 |  | Damage due to
+ | Child |  | 35 |  | 8 |  | Flood
+ | Developme
+ | nt
+ | MERBILL NO.1 |   | Women & |  | Merbeel |   | BETBARI |   | 94.6716 |  | 27.03982 |   | Damage due to
+ | Child |  | 78 |  | Flood
+ | Developme
+ | nt
+ | CHANGMAI |  | Women & |  | Changmai Gaon |   | BETBARI |   | 94.6552 |  | 27.01761 |   | Damage due to
+ | GAON NO.2 |  | Child |  | 06 |  | Flood
+ | Developme
+ | nt
+ | 28 NO |  | Women & |  | Hatighuli |   | Hatighuli |   | 94.5092 |  | 26.92438 |  | damage due to
+ | POTUASOLA |  | Child |  | 01 |  | 8 |  | flood
+ | Developme
+ | nt
+ | TAMULIBAZAR |   | Women & |  | Tamuli Pukhuri |  | 94.6462 |  | 27.02144 |  | Damage due to
+ | Child |  | BETBARI |  | 02 |  | 3 |  | Flood
+ | Developme
+ | nt
+ | CHANGMAI |  | Women & |  | Changmai Gaon |   | BETBARI |   | 94.6577 |  | 27.01385 |  | Damage due to
+ | GAON NO.1 |  | Child |  | 89 |  | 5 |  | Flood
+ | Developme
+ | nt
+ | NAMTIAL |  | Women & |  | NamtialPathar |   | NAMTIAL |  | 94.6503 |  | 27.00198 |  | Damage due to
+ | PATHAR |  | Child |  | PATHAR |  | 62 |  | 7 |  | Flood
+ | Developme
+ | nt
+ | 2 NO. |  | Women & |  | Komarfadia |   | NAGARMOHAL |   | 94.6038 |  | 26.98425 |  | Damage due to
+ | KOMARPHODIA |  | Child |  | 94 |  | 2 |  | flood
+ | Developme
+ | nt
+ | BHADHARA NO 2 |   | Women & |  | Khelua |   | KHELUWA |   | 94.6205 |  | 27.65242 |   | Damage due to
+ | Child |  | 3 |  | Flood
+ | Developme
+ | nt
+=== PAGE 20 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | BETBARI |  | Women & |  | Baliaghat |   | LACIT |   | 94.7259 |  | 27.02337 |  | Damage due to
+ | BORPATRA |  | Child |  | 64 |  | 5 |  | Flood
+ | Developme
+ | nt
+ | 107 No.Lahingia |   | Women & |  | Lahingia |   | Salaguri |   | 94.5865 |  | 26.98313 |  | Damage due to
+ | Child |  | 18 |  | 5 |  | flood
+ | Developme
+ | nt
+ | 30 NO GARKUSH |   | Women & |  | Garkush |   | Hatighuli |   | 94.5056 |  | 26.88097 |  | Damage due to
+ | Child |  | 08 |  | 5 |  | Flood
+ | Developme
+ | nt
+ | 129 NO |  | Women & |  | Hatighuli |   | Hatighuli |   | 94.5084 |  | 26.92948 |  | Damage due to
+ | PODUMONI |  | Child |  | 71 |  | 3 |  | flood
+ | Developme
+ | nt
+ | 1 NO. |  | Women & |  | Komarfadia |   | NAGARMOHAL |   | 94.6011 |  | 26.99145 |  | Damage due to
+ | KOMARPHODIA |  | Child |  | 42 |  | 7 |  | Flood
+ | Developme
+ | nt
+ | 121 NO |  | Women & |  | No. 2 |  | Khonamukh |   | 94.4463 |  | 26.95341 |  | Damage due to
+ | CHINTAMONIGA |  | Child |  | Chintamonigarh |  | 17 |  | 7 |  | flood
+ | RH MUSLIM |  | Developme
+ | nt
+ | Betena |   | Women & |  | Panbecha |   | Panbesa |   | 94.5718 |  | 27.02196 |  | Damage due to
+ | Child |  | 45 |  | 5 |  | flood
+ | Developme
+ | nt
+ | Banmukh Gohain |  | Women & |  | Banmukh Chutia |   | Banmukh |   | 94.6048 |  | 27.02647 |  | Damage due to
+ | Gaon |  | Child |  | 28 |  | 2 |  | flood
+ | Developme
+ | nt
+ | Dehingia Hori |  | Women & |  | Banmukh Dihingia |   | Banmukh |   | 94.6242 |  | 27.03769 |  | Damage due to
+ | Mondir |  | Child |  | 37 |  | 7 |  | flood
+ | Developme
+ | nt
+ | Banmukh Patar |  | Women & |  | Banmukh Chutia |   | Banmukh |   | 94.6176 |  | 27.03083 |  | Damage due to
+ | Chetia |  | Child |  | 29 |  | 6 |  | flood
+ | Developme
+ | nt
+ | Parbotijan |   | Women & |  | Dicial |   | Disangmukh |   | 94.4994 |  | 27.02155 |   | Damage due to
+ | Child |  | 91 |  | flood
+ | Developme
+ | nt
+ | Banmukh |  | Women & |  | Banmukh Chutia |   | Banmukh |   | 94.6093 |  | 27.04103 |   | Damage due to
+ | Nagaon |  | Child |  | 02 |  | flood
+ | Developme
+ | nt
+ | Chanimora |   | Women & |  | Panbecha |   | Panbecha |   | 94.5258 |  | 27.01027 |  | Damage due to
+ | Child |  | 42 |  | 1 |  | flood
+ | Developme
+ | nt
+ | Dhupaboria |   | Women & |  | Panbecha |   | Panbesa |   | 94.5892 |  | 27.03050 |  | Damage due to
+ | Child |  | 37 |  | 1 |  | flood
+ | Developme
+ | nt
+ | Bokulbari |  | Women & |  | Ajarguri |   | Disangmukh |   | 94.7619 |  | 26.92513 |   | Damage due to
+ | Padumoni |  | Child |  | 1 |  | flood
+ | Developme
+ | nt
+ | Pub Kathpara |   | Women & |  | Kathpar |   | Kathpara |   | 94.6148 |  | 27.00734 |  | Damage due to
+ | Child |  | 72 |  | 6 |  | flood
+ | Developme
+ | nt
+ | Secondary |  | 17 |   | DESANGMUKH |  | Education |  | Lepai |   | Lepai Chumoni |   | 94.5746 |  | 27.06396 |  | Submerged
+ | Schools |  | HIGHER |  | Deptt. |  | 5 |  | 7
+ | Damaged (in |  | SECONDARY
+ | Nos) |  | SCHOOL
+=== PAGE 21 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | PM SHRI |  | Education |  | Sivasagar Town |  | B.G.Road |  | 94.6408 |  | 26.98905 |   | Submerged
+ | THANURAM |  | Deptt. |  | Ward No.13 |  | Sivasagar |  | 17
+ | GOGOI
+ | MEMORIAL HSS
+ | KAMALESWARI |  | Education |  | NamtialPathar |   | Near NRL Petrol |  | 94.6447 |  | 26.99586 |  | Submerged
+ | HIGH SCHOOL |  | Deptt. |  | Pump |  | 17 |  | 7
+ | RANGPUR |  | Education |  | Sivasagar Town |  | Near Sivasagar |  | 94.6491 |  | 26.99763 |  | Submerged
+ | RASHTRABHASA |  | Deptt. |  | Ward No.13 |  | Railway Station |  | 17 |  | 3
+ | HS
+ | Delehi Dhai Ali |  | Education |  | Gohain Gaon |   | Gohain Gaon |   | 94.6293 |  | 27.02613 |  | Submerged
+ | High School |  | Deptt. |  | 17 |  | 3
+ | PM SHRI |  | Education |  | Mout Gaon |   | Mout Gaon |   | 94.6023 |  | 27.01808 |  | Submerged
+ | BANMUKH HS |  | Deptt. |  | 17 |  | 3
+ | SCHOOL
+ | KONWERPUR |  | Education |  | Karigaon |   | KARIGAON |   | 94.5712 |  | 26.98165 |   | Submerged
+ | HIGHER |  | Deptt. |  | 83
+ | SECONDARY
+ | SCHOOL
+ | KBCG |  | Education |  | Sivasagar Town |  | B.G.Road |  | 94.6442 |   | 26.98728 |  | Submerged
+ | MEMORIAL AP |  | Deptt. |  | Ward No.11 |  | Sivasagar |  | 3
+ | INSTT.
+ | SANTIPUR HIGH |  | Education |  | Siripuria |   | Siripuria |   | 94.5058 |  | 26.98143 |   | Submerged
+ | SCHOOL |  | Deptt. |  | 21
+ | FULESWARI |  | Education |  | Sivasagar Town |  | Ward No. 13 |   | 94.6359 |  | 26.9877 |   | Submerged
+ | GIRLS HSS |  | Deptt. |  | Ward No.13 |  | 67
+ | BHITORUAL H.S. |   | Education |  | Bhitarual Nora |   | Bhitorual Nora |  | 94.4817 |  | 26.91098 |  | Submerged
+ | Deptt. |  | Gaon |  | 83 |  | 3
+ | BANMUKH |  | Education |  | Banmukh Chutia |   | Banmukh Chutia |   | 94.6034 |  | 27.01785 |   | Submerged
+ | ADARSHA HIGH |  | Deptt. |  | 5
+ | SCHOOL
+ | RONGPUR GIRLS |  | Education |  | Jula Gaon |   | Jula Goan |   | 94.6268 |  | 26.96936 |  | Submerged
+ | HIGH SCHOOL |  | Deptt. |  | 33 |  | 7
+ | SUBACHANI |  | Education |  | Moutbari |   | Mout |   | Bari |   | 94.6009 |  | 27.01955 |   | submerged
+ | HIGH SCHOOL |  | Deptt. |  | 33
+ | KHANAMUKH |  | Education |  | No.2 Maut |  | No.2 Mout Ghar |  | 94.4737 |  | 26.93713 |  | Submerged
+ | H.S.S |  | Deptt. |  | Gharfalia |  | Pholia |  | 83 |  | 3
+ | BARHOITING HS |   | Education |  | Barhoiting |   | Barhoiting |   | 94.6215 |  | 27.04543 |  | Submerged
+ | Deptt. |  | 5 |  | 3
+ | BIR LACHIT |  | Education |  | Nawjan |   | Nawjan |   | 94.6348 |  | 26.99665 |   | Submerged
+ | BORPHUKAN |  | Deptt. |  | 67
+ | COLLEGE
+ | Amguri |   | Elementary |  | 39 |   | PM SHRI 806 NO. |  | Education |  | Khanikar |   | KARUNA SAGAR |   | 0 |   | 0 |   | LPS
+ | Schools |  | KARUNA SAGAR |  | Deptt.
+ | Damaged (in |  | LPS
+ | Nos) |  | NAMTI BOY'S |  | Education |  | Namti Grant |   | NAMTI |   | 0 |   | 0 |   | LPS
+ | HSS |  | Deptt.
+ | 805 NO. GAHORI |  | Education |  | Jaradhara(morabaz |  | GAHORI CHAWA |  | 0 |   | 0 |   | LPS
+ | CHAWA BARI LPS |  | Deptt. |  | ar) |  | BARI
+ | 176 NO. KUKURA |  | Education |  | Kukurachuwa |   | KUKURA CHOWA |   | 0 |   | 0 |   | LPS
+ | CHOWA LPS |  | Deptt.
+ | 803 NO. BOULI |  | Education |  | Mout |  | BOULI PUKHURI |   | 0 |   | 0 |   | LPS
+ | PUKHURI LPS |  | Deptt. |  | Gaon(Dupdor)
+ | 552 NO. |  | Education |  | Mout Gaon |  | MONGALA MOUT |   | 0 |   | 0 |   | LPS
+ | MONGALA |  | Deptt. |  | (Dikshu)
+ | MOUT LPS
+ | BORAHI BARI |  | Education |  | Lalimsiga Chapori |   | BORAHI BARI |   | 0 |   | 0 |   | LPS
+ | MVS |  | Deptt.
+ | SAMAGURIA |  | Education |  | Samaguri |   | SAMAGURIA |  | 0 |   | 0 |   | LPS
+ | ROJA MOIDAM |  | Deptt. |  | ROJA MOIDAM
+ | MES
+ | CHATAI CHIGA |  | Education |  | Borsillah Grant |   | CHATAI CHIGA |   | 0 |   | 0 |   | LPS
+ | LPS |  | Deptt.
+ | 541 NO. |  | Education |  | Basasayak Dibrual |   | BORSAYAK |   | 0 |   | 0 |   | LPS
+ | BORSAYAK LPS |  | Deptt.
+ | 412 NO. |  | Education |  | Khatuwal |   | KHATUWAL |   | 0 |   | 0 |   | Primary
+ | KHATUWAL LPS |  | Deptt.
+ | 1030 NO. |  | Education |  | Dulia Puranimalia |   | MAJUMELIA |   | 0 |   | 0 |   | Primary
+ | MAJUMELIA LPS |  | Deptt.
+=== PAGE 22 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | 130 NO. |  | Education |  | Phukonfodia |   | PHULPANI CHIGA |   | 0 |   | 0 |   | Primary
+ | PHULPANI |  | Deptt.
+ | CHIGA LPS
+ | 408 NO. JHANJI |  | Education |  | Bolomia Chowdang |   | JHANJI BALIKA |   | 0 |   | 0 |   | Primary
+ | BALIKA LPS |  | Deptt.
+ | LEFERA LPS |   | Education |  | Lefera Chowdang |   | LEFERA |   | 0 |   | 0 |   | Primary
+ | Deptt.
+ | 7 NO. GAYAN |  | Education |  | Deolia Gayan |   | GAYAN GAON |   | 0 |   | 0 |   | Primary
+ | GAON LPS |  | Deptt.
+ | JERENGA NAGAR |  | Education |  | Jerenga Habi |   | JERENGA NAGAR |   | 0 |   | 0 |   | Primary
+ | LPS |  | Deptt.
+ | 884 NO. PAHI |  | Education |  | Bhunya Gaon |   | PAHI GAON |   | 0 |   | 0 |   | Primary
+ | GAON LPS |  | Deptt.
+ | SUNDARPUR LPS |   | Education |  | Sumdar |   | SUNDARPUR |   | 0 |   | 0 |   | Primary
+ | Deptt.
+ | 271 NO. |  | Education |  | Charingia |   | CHARING |   | 0 |   | 0 |   | Primary
+ | CHARING LPS |  | Deptt.
+ | 424 NO. |  | Education |  | Charingia |   | PHULPANI CHIGA |   | 0 |   | 0 |   | Primary
+ | PHULPANI |  | Deptt.
+ | CHIGA LPS
+ | 450 NO. |  | Education |  | Khanikar |   | KHONIKAR |   | 0 |   | 0 |   | Primary
+ | KHONIKAR LPS |  | Deptt.
+ | DEKAJYOTI LPS |   | Education |  | Amguri Grant |   | DEKAJYOTI |   | 0 |   | 0 |   | Primary
+ | Deptt.
+ | 427 NO. NAPAM |  | Education |  | Namtial |   | NAPAM |   | 0 |   | 0 |   | Primary
+ | LPS |  | Deptt.
+ | 140 NO. |  | Education |  | Changmai Konwar |   | NAPAMIA |  | 0 |   | 0 |   | Primary
+ | NAPAMIA |  | Deptt. |  | CHANGMAI
+ | CHANGMAI LPS
+ | 80 NO. NAZIR |  | Education |  | Morapukhuri |   | NAZIR PUKHURI |   | 0 |   | 0 |   | Primary
+ | PUKHURI LPS |  | Deptt.
+ | GOHAIN |  | Education |  | Gohain Gaon |   | GOHAIN |  | 0 |   | 0 |   | Primary
+ | GARKAKHARIA |  | Deptt. |  | GARKAKHARIA
+ | LPS
+ | 236 NO. |  | Education |  | Dulia |   | DULAKAKHARIA |   | 0 |   | 0 |   | Primary
+ | DULAKAKHARIA |  | Deptt.
+ | LPS
+ | 790 NO. |  | Education |  | Namti Pathar |   | NAGARKAKHARIA |   | 0 |   | 0 |   | Primary
+ | NAGARKAKHARI |  | Deptt.
+ | A LPS
+ | 235 NO. |  | Education |  | Aila Habi |   | AILAMUKH |   | 0 |   | 0 |   | Primary
+ | AILAMUKH LPS |  | Deptt.
+ | 536 NO. |  | Education |  | Namdang Kumar |   | MAGARAHAT |  | 0 |   | 0 |   | Primary
+ | MAGARAHAT |  | Deptt. |  | CHARIALI
+ | CHARIALI LPS
+ | 491 NO. |  | Education |  | Deopani Patta |   | PAVAJAN |   | 0 |   | 0 |   | Primary
+ | PAVAJAN LPS |  | Deptt.
+ | NA | - | KHANA LPS |   | Education |  | Namti Grant |   | NA | - | KHANA |   | 0 |   | 0 |   | Primary
+ | Deptt.
+ | PHUKAN PHADIA |  | Education |  | Phukonfodia |   | PHUKAN PHADIA |   | 0 |   | 0 |   | Primary
+ | ADARSHA LPS |  | Deptt.
+ | 895 NO. NA | - | ALI |  | Education |  | Chariali |   | NA | - | ALI |   | 0 |   | 0 |   | Primary
+ | LPS |  | Deptt.
+ | 180 NO. |  | Education |  | Sonowal |   | SONTALI CHIGA |   | 0 |   | 0 |   | Primary
+ | SONTALI CHIGA |  | Deptt.
+ | LPS
+ | 445 NO. SINGIBIL |  | Education |  | Singibill |   | SINGIBIL |   | 0 |   | 0 |   | Primary
+ | LPS |  | Deptt.
+ | GOHAIN |  | Education |  | Gohain Gaon |   | GOHAIN KACHARI |   | 0 |   | 0 |   | Primary
+ | KACHARI LPS |  | Deptt.
+ | AILA HABI LPS |   | Education |  | Aila Habi |   | AILA HABI |   | 0 |   | 0 |   | Primary
+ | Deptt.
+ | PWSS |  | 22 |   | NAMTIDOL |  | PHE |   | Namtial |   | NAMTIDOL |   | 94.6195 |   | 26.83560 |  | scheme
+ | Damaged (in |  | PWSS |  | 1 |  | damage ,UGR
+ | Nos) |  | Cleaning
+ | NAMTI BONGALI |  | PHE |   | Namti Bongali |   | NAMTI BONGALI |   | 94.5840 |  | 26.78411 |  | scheme
+ | PWSS |  | 99 |  | 2 |  | damage ,UGR
+ | Cleaning
+=== PAGE 23 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | GREATER |  | PHE |   | Borbam grant |   | GREATER |  | 94.5512 |  | 26.91780 |  | SCHEME
+ | BORBAM CHAH |  | BORBAM CHAH |  | 47 |  | 8 |  | DAMAGE | - | UGR
+ | BAGICHA PWSS |  | BAGICHA PWSS |  | CLEANING
+ | NEEDED AND
+ | PUMP HOUSE
+ | NEED TO
+ | REPAIR,
+ | CENTRIFUGAL
+ | PUMP ,PANNEL
+ | BOARD
+ | GAHORESWA |  | PHE |   | Namtial |   | GAHORESWA |  | 94.6149 |  | 26.84639 |   | SCHEME
+ | BARI PWSS |  | BARI |  | 86 |  | DAMAGED | - | pipe
+ | line damaged,
+ | UGR CLEANING
+ | NEEDED
+ | DULIA DIBRUAL |  | PHE |   | Borsayak Dibrual |   | DULIA DIBRUAL |  | 94.4692 |  | 26.96057 |   | scheme
+ | PWSS |  | PWSS |  | 8 |  | damage ,UGR
+ | Cleaning
+ | DUWOARAH |  | PHE |   | Baruwati |   | DUWOARAH |  | 94.6040 |  | 26.81011 |   | scheme
+ | KOIBARTA PWSS |  | KOIBARTA |  | 1 |  | damage ,UGR
+ | Cleaning
+ | NIJORAPAR |  | PHE |   | Amguri Grant |   | NIJORAPAR |   | 94.5554 |  | 26.83587 |  | scheme
+ | PWSS |  | 67 |  | 1 |  | damage (pipe
+ | Line) ,UGR
+ | Cleaning
+ | HALUWATING |  | PHE |   | Borbam grant |   | HALUWATING |   | 94.5713 |  | 26.7816 |   | scheme
+ | PWSS |  | 6 |  | damage (pipe
+ | Line) ,UGR
+ | Cleaning
+ | CHARINGIA |  | PHE |   | Charingia |   | CHARINGIA |   | 94.5444 |   | 26.8767 |   | scheme
+ | PWSS |  | damage ,UGR
+ | Cleaning
+ | GARKAHARIA |  | PHE |   | Haluwating Grant |   | GARKAHARIA |   | 94.5250 |  | 26.82725 |   | scheme
+ | PWSS |  | 6 |  | damage ,UGR
+ | Cleaning
+ | GOHAIN GAON |  | PHE |   | Boga Gohain |   | GOHAIN GAON |   | 94.6043 |  | 26.87837 |  | scheme
+ | PWSS |  | 3 |  | 5 |  | damage ,UGR
+ | Cleaning
+ | HUNARIBARI |  | PHE |   | Gajpuria Kakati |   | HUNARIBARI |   | 94.5385 |  | 26.92170 |  | SCHEME
+ | PWSS |  | 9 |  | 6 |  | DAMAGED | - | UGR
+ | CLEANING, 1
+ | CENTRIFUGAL
+ | PUMP
+ | DAMAGED,
+ | AND PANNEL
+ | BOARD
+ | DAMAGED
+ | KAKOTI GAON |  | PHE |   | Kakati |   | KAKOTI GAON |   | 94.4925 |   | 26.82945 |  | scheme
+ | PWSS |  | 6 |  | damage ,UGR
+ | Cleaning
+ | NAMDONGIA |  | PHE |   | Bongali Gari |   | NAMDONGIA |  | 94.4498 |  | 26.98240 |  | SCHEME
+ | BONGALI PWSS |  | BONGALI |  | 97 |  | 5 |  | DAMAGED | - | UGR
+ | CLEANING, 1
+ | CENTRIFUGAL
+ | PUMP
+ | DAMAGED,
+ | AND PANNEL
+ | BOARD
+ | DAMAGED
+ | NAMTIAL PWSS |   | PHE |   | Namtial |   | NAMTIAL |   | 94.5507 |  | 26.78986 |  | scheme
+ | 21 |  | 9 |  | damage ,UGR
+ | Cleaning
+ | NO 1 SINGIBIL |  | PHE |   | Singibill |   | NO 1 SINGIBIL |   | 94.5621 |  | 26.82277 |  | SCHEME
+ | MINI PWSS |  | 92 |  | 1 |  | DAMAGED | - | UGR
+ | CLEANING, 1
+ | CENTRIFUGAL
+ | PUMP
+ | DAMAGED,
+ | AND PANNEL
+=== PAGE 24 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | BOARD
+ | DAMAGED
+ | RETROFITTING |  | PHE |   | Phukonfodia |   | PHUKON PHADIA |   | 94.5405 |  | 26.84046 |  | scheme
+ | OF PHUKON |  | 87 |  | 4 |  | damage ,UGR
+ | PHADIA PWSS |  | Cleaning
+ | RETROFITTING |  | PHE |   | Singibill |   | SINGIBIL |   | 94.4476 |  | 26.94145 |   | SCHEME
+ | OF SINGIBIL |  | 01 |  | DAMAGED | - | UGR
+ | PWSS |  | CLEANING, 1
+ | CENTRIFUGAL
+ | PUMP
+ | DAMAGED,
+ | AND PANNEL
+ | BOARD
+ | DAMAGED
+ | TELIAL |   | PHE |   | Telial |   | TELIAL |   | 94.5147 |  | 26.92074 |  | scheme
+ | 76 |  | 9 |  | damage ,UGR
+ | Cleaning
+ | 2 no namtiyal |  | PHE |   | Haluwating Grant |   | 2 no namtiyal |   | 94.5533 |  | 26.8929 |   | scheme
+ | pwss |  | 9 |  | damage ,UGR
+ | Cleaning
+ | BEZ GAON |  | PHE |   | BezGaon |   | BEZ GAON |  | 94.5579 |  | 26.79847 |   | scheme
+ | KOIBARTRA |  | KOIBARTRA |  | 6 |  | damage ,UGR
+ | PWSS |  | Cleaning
+ | BOGA GOHAIN |  | PHE |   | Boga Gohain |   | BOGA GOHAIN |   | 94.6112 |  | 26.97233 |  | scheme
+ | PWSS |  | 14 |  | 1 |  | damage ,UGR
+ | Cleaning
+ | Demow |   | Elementary |  | 11 |   | barderoi mes |   | Education |  | Borderoi |   | borderoi |   | 0 |   | 0 |   | this report is
+ | Schools |  | Deptt. |  | received from
+ | Damaged (in |  | department of
+ | Nos) |  | education
+ | nabeel nopthar |  | Education |  | Nabeel |   | nabeel |   | 0 |   | 0 |   | this report is
+ | lps |  | Deptt. |  | received from
+ | department of
+ | education
+ | dhaiali nabeel |  | Education |  | Nabeel |   | nabeel |   | 0 |   | 0 |   | this report is
+ | adarsha majdur |  | Deptt. |  | received from
+ | lps |  | department of
+ | education
+ | joradubi mising |  | Education |  | Sarugua Gaon |   | sarugua |   | 0 |   | 0 |   | this |   | report is
+ | janajati lps |  | Deptt. |  | received from
+ | department of
+ | education
+ | ambari lps |   | Education |  | Saruderoi |   | saruderoi |   | 0 |   | 0 |   | this report is
+ | Deptt. |  | received from
+ | department of
+ | education
+ | 2 no rajen gaon |  | Education |  | Rajen |   | rajan bagan |   | 0 |   | 0 |   | this report is
+ | lps |  | Deptt. |  | received from
+ | department of
+ | education
+ | 713 no jikakota |  | Education |  | Desang Deroi Habi |   | desang deroi habi |   | 0 |   | 0 |   | this report is
+ | lps |  | Deptt. |  | received from
+ | department of
+ | education
+ | 540 no desang |  | Education |  | Demowmukh |  | demowmukh |   | 0 |   | 0 |   | this report is
+ | gohain lps |  | Deptt. |  | Gohain |  | received from
+ | department of
+ | education
+ | 682 no saruderoi |  | Education |  | Saruderoi |   | saruderoi |   | 0 |   | 0 |   | this report is
+ | lps |  | Deptt. |  | received from
+ | department of
+ | education
+ | rajabari chah |  | Education |  | Rajabari Chah |  | rajabari chah |  | 0 |   | 0 |   | this report is
+ | bagisa lps |  | Deptt. |  | Bagan |  | bagan |  | received from
+ | department of
+ | education
+ | naohaliya lps |   | Education |  | Desang Deroi Habi |   | desang deroi habi |   | 0 |   | 0 |   | this report is
+ | Deptt. |  | received from
+=== PAGE 25 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | department of
+ | education
+ | Sonari |  | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil |   | Nil
+ | RC part
+ | Sribhumi |   | Patherk |  | Protection |  | 1 |   | Protection bund |  | Water |  | Achairghat |   | Asairghat |   | 92.3269 |  | 24.49962 |  | As per report
+ | andi |  | Bundh |  | at Asairghat |  | Resource |  | 59 |  | 3 |  | submitted by
+ | Damaged (in |  | village road |  | Deptt. |  | the Executive
+ | Nos) |  | Engineer,
+ | Sribhumi WR
+ | Division dated
+ | 28/07/2026,
+ | severe |   | Bank
+ | erosion of
+ | length 462 M
+ | along the
+ | Asairghat
+ | village road on
+ | the right Bank
+ | of river longai
+ | has occurred
+ | from ch 0 to
+ | 462 M
+ | Wildlife |  | District |   | Details
+ | affected
+ | Biswanath
+ | under
+ | Cachar
+ | protected
+ | Charaideo
+ | areas
+ | Dhemaji
+ | description
+ | Dibrugarh
+ | Golaghat
+ | Jorhat |   | (Mariani |   | - |   | 0)
+ | Kamrup (M)
+ | Lakhimpur
+ | Nagaon
+ | Sivasagar |   | (Sivsagar |   | - |   | Nil), (Demow |   | - |   | 0)
+ | Sribhumi
+ | Remarks |   | District |   | Details
+ | Biswanath
+ | Cachar
+ | Charaideo |   | (Mahmora |   | - |   | Total 7592 nos of CM Sir's |   | Special Relief Packets were distributed under Mahmora Revenue Circle on 29 | - | 07 | - | 2026.
+ | Bhoralipukhuri GP |   | - |   | 435 pkt
+ | Bordoba GP |   | - |   | 35 pkt
+ | Desangpani GP |   | - |   | 2159 pkt
+ | Doba GP |   | - |   | 2770 pkt
+ | Nizkhaloighugura GP |   | - |   | 1041 pkt
+ | Milon GP |   | - |   | 808 pkt
+ | Sepon GP |   | - |   | 197 pkt
+ | Kakotibari GP |   | - |   | 147 pkt), (Sonari |   | - |   | O/o Designated Officer, Food Safety , Charaideo damage office components (Lat | - |   | 27.02529, Long | -
+ | 95.018035),
+ | O/o DPMU, Charaideo, damage office components (Lat | - |   | 27.025532, Long | - |   | 95.018296),
+ | CM Packet distributed today | - | 20199Pck, total packets distributed till now | - | 25199
+ | )
+ | Dhemaji |   | (Jonai |   | - |   | Today i.e. 29/07/2026, GR is distributed to the already affected families of Arun Chapori and Madhupur village.
+ | Rice 20Q 2KG 800GM
+ | Dal 3Q 79Kg 500GM
+ | Salt 1Q 13 KG 850gm
+ | Mustard Oil 113.850 Litre)
+ | Dibrugarh |   | (Naharkatia |   | - |   | As per report received from Veterinary Officer, State Veterinary Dispensary Naharkatia today 3 Nos. of Veterinary Health
+ | and treatment Camp conducted at flood affected areas of Naharkatia Revenue Circle on 29.07.2026
+ | As per report received from Joint Director of Health Services, Dibrugarh today 03 nos. of medical team deployed under Naharka | tia
+ | Revenue Circle as on 29.07.2026
+ | ), (Tengakhat |   | - |   | As per report received from Joint Director of Health Services today 2 Nos Medical Team deployed under |   | Tengakhat
+ | Revenue Circle as on 29.07.2026
+ | As pre report received from the Veterinary Officer, State Veterinary Dispensary, Dibrugarh 4 (Four) Nos Veterinary camp have |   | been
+ | organized under
+ | Tengakhat Revenue Circle on 29.07.2026), (Dibrugarh West |   | - |   | As per report received from Joint Director of Health Services, Dibrugarh
+=== PAGE 26 END ===
+DRIMS Assam
+ | Disaster Reporting and Information Management System
+ | 02 nos. of medical team deployed under Dibrugarh west Revenue Circle as on 29.07.2026
+ | As per information received from the PHE Department 10 nos. Hand Tube Wells (HTWs) were disinfected under Dibrugarh West
+ | Rrevenue Circle Circle on 29.07.2026), (Moran |   | - |   | As per report received from Joint Director of Health Services under Moran Revenue
+ | Circl | e today Medical Team Deployed |   | - |   | 1 no, on 29.07.2026)
+ | Golaghat |   | (Golaghat |   | - |   | 03 No. MGNREGA and 01 no. FC schemes got affected under Golaghat East Dev. Block)
+ | Jorhat |   | (Jorhat West |   | - |   | No of spot source affected | - | 12 nos, IHHL affected | - |   | 18 nos, spot source disinfected | - |   | 15 nos.), (Jorhat East |   | - |   | 32 Leaflets
+ | distributed in Flood affected Areas under Jorhat East Revenue Circle on 29/07/2026), (Teok |   | - |   | Teok CKB College submerged b | y flood
+ | water and damaged furniture, building floor etc. The damage caused by the flood is so severe that the college cannot bear the
+ | financial brunt to repair/ rebuild/ new purchase all the articles damaged/ washed away by the terrible flood.)
+ | Kamrup (M)
+ | Lakhimpur
+ | Nagaon
+ | Sivasagar |   | (Sivsagar |   | - |   | 8789 Nos of CM Relief Packet distributed ), (Demow |   | - |   | cattle feed (solid dana) 250 qntl distributed)
+ | Sribhumi
+ | Report Generated On: 27 | - | 08 | - | 2026 06:15 PM
+=== PAGE 27 END ===

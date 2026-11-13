@@ -199,3 +199,25 @@ Which facilities count as care (road blocked at 20%, join within 500 m, dry squa
 | Hospitals only | 55 | 10.5 km | 460,525 | 213,272 | 643,063 | 16,817 |
 
 Reading: losing access to a hospital affects about 46% more people than losing access to any facility. Fewer long detours with fewer facilities because more places lose every route instead. OSM tags "hospital" inconsistently (private nursing homes vs district hospitals), so the hospitals-only line is a sensitivity check, not a better answer.
+
+## Week 4: Road check and ASDMA reports (from Tanush, 2026-11-13)
+
+IMPORTANT, for honesty in the report: Tanush's README says the road check and the ASDMA extraction were "done by Claude for Tanush", in a browser (Esri imagery vs OSM Mapnik), not in QGIS against network.gpkg. The road check was meant as a human judgement. Tanush should re-check at least 4 of the 12 places himself (2 C, 1 D, 1 B) and confirm or correct; the report must say how the check was done.
+
+### Road check (12 places, `results/road_check_run1/check_sheet_filled.csv`; key in `labelling/answer_key/`)
+- 8 "no road access" places: 5 x C (roads exist, not in OSM; 4 of them tea gardens, 1 farming village), 3 x D (2 with no houses: forest and a tea garden; 1 hill hamlet with footpaths only).
+- 4 "connected" control places: 2 x A, 2 x B (main road mapped, side lanes missing).
+- Reading: most of the 735k uncounted people are not truly road-less. Two causes: (1) OSM misses tea-garden estate roads and some village lane networks; (2) WorldPop puts some people where there are no houses (forest, tea bushes). Tea-garden labour lines are a large, vulnerable group that our map currently drops.
+
+### ASDMA (25 Jul to 3 Aug, `data/asdma/`)
+- Peak villages affected around 25 to 26 July; 29 July is after the peak (441 villages vs 588 on 25 July).
+- No report lists villages as cut off; validation stays at revenue-circle level.
+- 28 July report = 27 July. Reports regenerated in late August.
+
+### Red flag from comparing with ASDMA (29 July)
+| District | Our new flood, 3 of 5 (km2) | ASDMA crop area submerged (km2) | ASDMA villages affected |
+|---|---|---|---|
+| Jorhat | 185 | 9 | 82 |
+| Sivasagar | 128 | 67 | 242 |
+| Charaideo | 35 | 116 | 117 |
+The ranking is reversed. Most of our Jorhat "flood" is inland (only 14% within 2 km of the river), in large patches in the south-west (Titabor side), a major rice area. Hypothesis: rice transplanting between 17 and 29 July floods fields, and the model correctly sees water but the rule calls it flood. Charaideo flooding may have been flash floods that receded by 29 July, or under vegetation. The hand labels cannot settle this (labellers mark water, and paddy is water). Proposed fix: compare 29 July 2026 with the same late-July dates in previous years on the same track ("normal late-July water"), and exclude places that are water every year.
